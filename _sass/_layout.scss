@@ -219,7 +219,7 @@
     font-weight: 450;
     letter-spacing: -1px;
     line-height: 1;
-    color: $recipe-color;
+    color: $header-title-color;
 
     @include media-query($on-laptop) {
         font-size: 36px;

@@ -47,6 +47,13 @@ img {
 }
 .primaryimage {
     padding-bottom: 15px;
+    width: 95%;
+    height: 95%;  
+    margin: 0 auto;  
+}
+.about {
+    width: 60%;
+    height: 60%;
 }
 
 
@@ -214,17 +221,7 @@ pre {
         }
     }
 }
-/**
-*Images
-*/
-.primaryimage {
-    width: 85%;
-    height: 85%;
-}
-.about {
-    width: 60%;
-    height: 60%;
-}
+
 /**
 *Homepage Formatting
 */
@@ -281,6 +278,7 @@ pre {
 }
 .prep {
     padding-top: 5px;
+    padding-bottom: 5px;
     display: inline-block;
     float: left;
     width: 100%;
@@ -293,7 +291,7 @@ pre {
     background-color: $nav-border-light;
     }
 
-.label {
+.labeltext {
     color: $header-title-color;
     font-size: 15px;
     font-family: $special-font-family;
@@ -304,8 +302,10 @@ pre {
 */
 .category-recipe-title {
     padding-top: 15px;
+    padding-bottom: 5px;
     margin-bottom: 5px;
     text-align: center;
+    font-weight: 450;
 }
 .category-recipe-date {
     font-size: 10px;

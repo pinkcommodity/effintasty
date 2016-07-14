@@ -6,15 +6,17 @@ layout: default
 <div class="row">
 	<ul class="posts">
 
-		{% for post in site.categories[page.category] %}
+		{% assign sorted_posts=(site.categories[page.category]) | sort:"title" %}
+
+		{% for post in sorted_posts %}
 		
 			<div class="col-sm-4"><a class="activeimage" href="{{ post.url }}">
 		{% if post.primaryimage %}
 			<img class="img-responsive img-rounded" src="{{ site.baseurl }}/assets/{{post.primaryimage}}">
 		{% endif %}
-			<h2 class="category-recipe-title">{{ post.title }}</h2></a>
+			<h3 class="category-recipe-title">{{ post.title }}</h3></a>
 			<!-- <div class="category-recipe-date">{{ post.date | date_to_long_string }}</div> -->
-			<!-- <div class="categories"><span class="label">Recipe Tags:</span> {{ post.categories | category_links }}</div> -->
+			<!-- <div class="categories"><span class="labeltext">Recipe Tags:</span> {{ post.categories | category_links }}</div> -->
 			</div>
 		{% endfor %}
 	</ul>

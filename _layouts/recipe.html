@@ -9,14 +9,14 @@ layout: default
 
   </header>
 
-	<div>{% if page.primaryimage %}
-			<img class="primaryimage" src="{{ site.baseurl }}/assets/{{page.primaryimage}}">
+	{% if page.primaryimage %}
+			<img class="img-rounded img-responsive primaryimage" src="{{ site.baseurl }}/assets/{{page.primaryimage}}">
 		{% endif %}
-	</div>
+	
 	<div class="prep">
-		<div class="recipe-banner-1"><span class="label">Makes:</span> <br>{{ page.servings }}</div>
-		<div class="recipe-banner-2"><span class="label">Prep Time:</span> <br>{{ page.preptime }}</div>
-		<div class="recipe-banner-3"><span class="label">Cook Time:</span> <br>{{ page.cooktime }}</div>
+		<div class="recipe-banner-1"><span class="labeltext">Makes:</span> <br>{{ page.servings }}</div>
+		<div class="recipe-banner-2"><span class="labeltext">Prep Time:</span> <br>{{ page.preptime }}</div>
+		<div class="recipe-banner-3"><span class="labeltext">Cook Time:</span> <br>{{ page.cooktime }}</div>
 	</div>
 	<div class="page-content">
 		<div class="ingredients">
@@ -34,5 +34,9 @@ layout: default
 	  				</div>
 		</div>
 	</div>
-	<div class="prep"><span class="label">Recipe Tags:</span> {{ page.tags}} </div>
+	<div class="prep"><span class="labeltext">Recipe Tags:</span> 
+		{% for tags in page.tags %}
+		<div class="label label-info">{{tags}}</div>
+		{% endfor %}
+	</div>
 </article>

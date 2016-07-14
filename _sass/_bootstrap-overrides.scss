@@ -6,3 +6,11 @@ a:-webkit-any-link {
     text-decoration: none;
     cursor: auto;
 }
+.label-info {
+    background-color: $meta-color;
+}
+.label {
+	color: $brand-color;
+    padding-top: 0.3em;
+    font-size: 80%;
+}

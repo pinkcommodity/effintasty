@@ -6,22 +6,24 @@
 
 
 // Our variables
+// Font Styles
 $base-font-family: "Amiri", serif;
 $special-font-family: "Bad Script", cursive;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
 
+//Element Sizing
+$base-line-height: 1.5;
 $spacing-unit:     20px;
-$visited-color:    #Af421A;
-$hover-color:      #Af421A;
+
+//Colors
+//There are four colors within the pallete in use, with a 5th available: 
+//"F7F5D2" is cream, "E09F3E" is yellow, "#19647E" is dark blue, 
+//and "28AFB0" is light blue. hot pink "#A4036F" is in limited use.
 $text-color:       #111;
 $header-title-color: #19647E;
-$clicked-color:    #8E1212;
-$background-color: #F8F8FF;
 $brand-color:      #F7F5D2;
-$recipe-color:     #19647E;
 $header-background:#28AFB0;
 $footer-background:#28AFB0;
 $nav-border:       #E09F3E;
@@ -30,10 +32,10 @@ $nav-border-dark: darken($nav-border, 15%);
 $meta-color:       #19647E;
 $meta-color-light: lighten($meta-color, 55%);
 $meta-color-dark:  darken($meta-color, 25%);
+$background-color: #F8F8FF;
 
 // Width of the content area
 $content-width:    800px;
-
 $on-palm:          600px;
 $on-laptop:        800px;
 
