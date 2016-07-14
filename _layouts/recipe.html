@@ -35,8 +35,10 @@ layout: default
 		</div>
 	</div>
 	<div class="prep"><span class="labeltext">Recipe Tags:</span> 
-		{% for tags in page.tags %}
-		<div class="label label-info">{{tags}}</div>
+		{% assign tag_links = (page | tags) %}
+		{% for tag_link in tag_links %}
+		<div class="label label-info">{{tag_link}}</div>
 		{% endfor %}
+
 	</div>
 </article>
