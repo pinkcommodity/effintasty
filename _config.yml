@@ -22,3 +22,8 @@ markdown: kramdown
 
 # Categories plug-in settings
 category_title_prefix: ""
+
+#Jekyll-tagging plug-in settings
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
