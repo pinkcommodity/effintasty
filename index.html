@@ -6,23 +6,19 @@ layout: default
   <ul class="category-list">
    <div class="row">
     {% for post in site.categories.recipes limit: 3 %}
-
       <div class="col-sm-4">
         <a class="activeimage" href="{{ post.url }}">
+        
         {% if post.primaryimage %}
-
         <img class="img-responsive img-rounded" src="{{ site.baseurl }}/assets/{{post.primaryimage}}">
         {% endif %}
-          <h4 class="category-recipe-title">{{ post.title }}</h4></a>
+        <h4 class="category-recipe-title">{{ post.title }}</h4></a>
           
       </div>
-     
-        {% endfor %}
+    {% endfor %}
    </div>
   </ul>
-        
-
-
+      
   <div class="row welcome-mat">
     <div class="col-sm-8"><h1>Welcome!</h1>Hello, I'm Lauren, and welcome to Effin' Tasty, a cooking site dedicated to sharing my love for effin' tasty foods and the knowledge I've collected along the way creating them. And more copy and more copy and more.</div>
     <div class="col-sm-4"><img class= "img-responsive img-circle about" src="/assets/About_pic.jpg"></div>
@@ -44,5 +40,5 @@ layout: default
     {% assign category_name_array = category_name | split: "|" %}
     <div class="col-sm-3">{{ category_name_array] | category_links }}</div>
     {% endfor %}
-  </div>
+    </div>
   </ul>
