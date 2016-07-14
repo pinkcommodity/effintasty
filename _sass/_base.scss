@@ -109,11 +109,11 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: $visited-color;
+        color: $meta-color;
     }
 
     &:hover {
-        color: $hover-color;
+        color: $meta-color;
         // text-decoration: underline;
     }
 }
