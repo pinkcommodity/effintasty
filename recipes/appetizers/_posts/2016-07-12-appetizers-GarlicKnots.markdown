@@ -3,7 +3,7 @@ layout: recipe
 title:  "Garlic Knots"
 date:   2016-07-10
 author: Lauren Oas
-tags: cookies, tomatoes, bacon, gluten-free
+tags: [cookies, tomatoes, bacon, gluten-free]
 primaryimage: veggies.jpeg
 ingredients: 
 - garlic
