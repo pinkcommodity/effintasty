@@ -1,19 +1,18 @@
 ---
 layout: default
 ---
-  <h1>New & Tasty</h1>
+<h1>New & Tasty</h1>
 
-    <ul class="category-list">
-     <div class="row">
-      {% for post in site.categories.recipes limit: 3 %}
-      
-        <div class="col-sm-4">
-          <a class="activeimage" href="{{ post.url }}">
-          {% if post.primaryimage %}
+  <ul class="category-list">
+   <div class="row">
+    {% for post in site.categories.recipes limit: 3 %}
 
-          <img class="img-responsive img-rounded" src="{{ site.baseurl }}/assets/{{post.primaryimage}}">
+      <div class="col-sm-4">
+        <a class="activeimage" href="{{ post.url }}">
+        {% if post.primaryimage %}
 
-          {% endif %}
+        <img class="img-responsive img-rounded" src="{{ site.baseurl }}/assets/{{post.primaryimage}}">
+        {% endif %}
 
           <h4 class="category-recipe-title">{{ post.title }}</h4></a>
           
@@ -23,44 +22,28 @@ layout: default
        </div>
     </ul>
 
-  
-    <div class="row welcome-mat">
-      <div class="col-sm-8"><h1>Welcome!</h1>Hello, I'm Lauren, and welcome to Effin' Tasty, a cooking site dedicated to sharing my love for effin' tasty foods and the knowledge I've collected along the way creating them. And more copy and more copy and more.</div>
-      <div class="col-sm-4"><img class= "img-responsive img-circle about" src="/assets/About_pic.jpg"></div>
-    </div>
 
-  <h1 class="welcome-mat-room">Tasty Types</h1>
-    <ul class="category-list">
-      <!-- build category_names array -->
-      {% assign category_names = "" | split:"|" %}
-      {% for category in site.categories %}
-      {% assign category_name = (category | first) %}
-      {% if category_name == "recipes" %}
-      {% continue %}
-      {% endif %}
-      {% assign category_names=category_names | push: category_name %}
-      {% endfor %}
 
-      <!-- Sort category_names -->
-      {% assign category_names=category_names | sort %}
+  <div class="row welcome-mat">
+    <div class="col-sm-8"><h1>Welcome!</h1>Hello, I'm Lauren, and welcome to Effin' Tasty, a cooking site dedicated to sharing my love for effin' tasty foods and the knowledge I've collected along the way creating them. And more copy and more copy and more.</div>
+    <div class="col-sm-4"><img class= "img-responsive img-circle about" src="/assets/About_pic.jpg"></div>
+  </div>
 
-      <!-- Build category grid -->
-      {% for category in category_names %}
-      {% assign category_array = category | split:"|" %}
-
-      {% capture modulo %}{{ forloop.index0 | mod:4 }}{% endcapture %}
-
-      <!-- Modulo to begin bootstrap row -->
-      {% if modulo == '0' or forloop.first %}
-      <div class="row">
-      {% endif %}
-
-        <div class="col-sm-3">{{ category_array | category_links }}</div>
-
-      <!-- Modulo to end bootstrap row -->
-      {% if modulo == '3' or forloop.last %}
-      </div>
-      {% endif %}
-
-      {% endfor %}
-    </ul>
+<h1 class="welcome-mat-room">Tasty Types</h1>
+  <ul class="category-list">
+    <div class="row">
+    <!-- Sort categories -->
+    {% assign sorted_categories = site.categories | sort %}
+    {% for category in sorted_categories %}
+    <!-- Grab the category name ( which is the first string in the array, it's [categoryName, [categoryposts...]]) -->
+    {% assign category_name = (category | first) %}
+    <!-- Skip the "recipes" category -->
+    {% if category_name == "recipes" %}
+    {% continue %}
+    {% endif %}
+    <!-- category_links expects an array, so we put our single category into an array -->
+    {% assign category_name_array = category_name | split: "|" %}
+    <div class="col-sm-3">{{ category_name_array] | category_links }}</div>
+    {% endfor %}
+  </div>
+  </ul>
