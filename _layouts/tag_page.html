@@ -5,19 +5,23 @@ layout: default
 <ul>
 	<div class="row">
 	{% assign sorted_posts=page.posts | sort:"title" %}
-
-		{% for post in sorted_posts %}
-
-	<div class="col-sm-2"><a class="activeimage" href="{{ post.url }}">
-		{% if post.primaryimage %}
-			<img class="img-responsive img-rounded" src="{{ site.baseurl }}/assets/{{post.primaryimage}}">
-		{% endif %}
-			<h4 class="category-recipe-title">{{ post.title }}</h4>
-			<!-- <h6 class="labeltext">{{ post.date | date_to_long_string }}</h6> --></a>
+	{% for post in sorted_posts %}
+		<div class="col-sm-2"><a class="activeimage" href="{{ post.url }}">
+			{% if post.primaryimage %}
+				<img class="img-responsive img-rounded" src="{{ site.baseurl }}/assets/{{post.primaryimage}}">
+			{% endif %}
+				<h4 class="category-recipe-title">{{ post.title }}</h4>
+				<!-- <h6 class="labeltext">{{ post.date | date_to_long_string }}</h6> --></a>
+		</div>
 	</div>
 	{% endfor %}
 </ul>
 
-<div id="tag-cloud">
-  {{ site | tag_cloud }}
-</div>
+<div class="prep"><span class="labeltext">Recipe Tags:</span> 
+		{% assign tag_links = (site | tags) %}
+		{% for tag_link in tag_links %}
+		<div class="label label-info">{{tag_link}}</div>
+		{% endfor %}
+
+	</div>
+

@@ -135,7 +135,8 @@ module Jekyll
     end
 
     def tags(obj)
-      tags = obj['tags'].dup
+      tags = obj['tags'].keys.dup if obj['tags'].is_a?(Hash)
+      tags = obj['tags'].dup if obj['tags'].is_a?(Array)
       tags.map! { |t| t.first } if tags.first.is_a?(Array)
       tags.map! { |t| tag_link(t, tag_url(t), :rel => 'tag') if t.is_a?(String) }.compact!
       tags
