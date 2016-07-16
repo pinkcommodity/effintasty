@@ -126,7 +126,7 @@ module Jekyll
 
     def tag_link(tag, url = tag_url(tag), html_opts = nil)
       html_opts &&= ' ' << html_opts.map { |k, v| %Q{#{k}="#{v}"} }.join(' ')
-      %Q{<a href="#{url}"#{html_opts}>#{tag}</a>}
+      %Q{<a class="tag" href="#{url}"#{html_opts}>#{tag}</a>}
     end
 
     def tag_url(tag, type = :page, site = Tagger.site)

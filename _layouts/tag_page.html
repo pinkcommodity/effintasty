@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h2>{{ page.tag | capitalize }}</h2>
+<h2>Recipes Tagged as "{{ page.tag | capitalize }}"</h2>
 <div class="row">
 	<ul>
 		{% assign sorted_posts=page.posts | sort:"title" %}
@@ -16,11 +16,12 @@ layout: default
 	</ul>
 </div>
 
-<div class="prep"><span class="labeltext">Recipe Tags:</span> 
+<div class="row">
+<div class="prep"><span class="labeltext">All Tags:</span> 
 		{% assign tag_links = (site | tags) %}
 		{% for tag_link in tag_links %}
-		<div class="label label-info">{{tag_link}}</div>
+		<div class="label tag label-info">{{tag_link}}</div>
 		{% endfor %}
-
-	</div>
+</div>
+</div>
 

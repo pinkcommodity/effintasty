@@ -44,3 +44,10 @@ layout: default
     {% endfor %}
     </div>
   </ul>
+
+<div class="prep"><span class="labeltext">Or, Browse by Tags:</span> 
+    {% assign tag_links = (site | tags) %}
+    {% for tag_link in tag_links %}
+    <div class="label tag label-info">{{tag_link}}</div>
+    {% endfor %}
+</div>

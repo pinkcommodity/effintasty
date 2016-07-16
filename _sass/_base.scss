@@ -243,7 +243,6 @@ pre {
 }
 #welcome-mat-room {
     padding-top: 10px;
-    text-align: center;
 }
 
 /**
@@ -310,4 +309,10 @@ pre {
 }
 .category-recipe-date {
     font-size: 10px;
+}
+/**
+*Tag Formatting
+*/
+.tag {
+    display: inline-block;
 }
