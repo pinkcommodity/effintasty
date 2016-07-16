@@ -3,7 +3,7 @@ layout: recipe
 title:  "BLT Stuffed Tomatoes"
 date:   2016-07-12
 author: Lauren Oas
-tags: [cookies, tomatoes, bacon, gluten-free]
+tags: [cookies, tomatoes, bacon, gluten-free, difficult, grill, one-pot, bread, no-cook, beef,chicken, vegan, vegetarian, cakes, pies, potatoes, slow-cooker, harley, horatio, test1, test2, lethal-weapon, bored, testing, test, moretest, againtest]
 primaryimage: veggies.jpeg
 ingredients: 
 - test ingredient 1

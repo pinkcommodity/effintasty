@@ -40,7 +40,14 @@ layout: default
     {% endif %}
     <!-- category_links expects an array, so we put our single category into an array -->
     {% assign category_name_array = category_name | split: "|" %}
-    <div class="col-sm-3">{{ category_name_array] | category_links }}</div>
+    <div class="col-sm-3">{{ category_name_array | category_links }}</div>
     {% endfor %}
     </div>
   </ul>
+
+<div class="prep"><span class="labeltext">Or, Browse by Tags:</span> 
+    {% assign tag_links = (site | tags) %}
+    {% for tag_link in tag_links %}
+    <div class="label tag label-info">{{tag_link}}</div>
+    {% endfor %}
+</div>

@@ -1,13 +1,27 @@
 ---
 layout: default
 ---
-<h2>{{ page.tag }}</h2>
-<ul>
-{% for post in page.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }} | Tags: {{ post | tags }})</li>
-{% endfor %}
-</ul>
-
-<div id="tag-cloud">
-  {{ site | tag_cloud }}
+<h2>Recipes Tagged as "{{ page.tag | capitalize }}"</h2>
+<div class="row">
+	<ul>
+		{% assign sorted_posts=page.posts | sort:"title" %}
+		{% for post in sorted_posts %}
+			<div class="col-sm-3"><a class="activeimage" href="{{ post.url }}">
+				{% if post.primaryimage %}
+					<img class="img-responsive img-rounded" src="{{ site.baseurl }}/assets/{{post.primaryimage}}">
+				{% endif %}
+					<h4 class="category-recipe-title">{{ post.title }}</h4></a>
+			</div>
+		{% endfor %}
+	</ul>
 </div>
+
+<div class="row">
+<div class="prep"><span class="labeltext">All Tags:</span> 
+		{% assign tag_links = (site | tags) %}
+		{% for tag_link in tag_links %}
+		<div class="label tag label-info">{{tag_link}}</div>
+		{% endfor %}
+</div>
+</div>
+
