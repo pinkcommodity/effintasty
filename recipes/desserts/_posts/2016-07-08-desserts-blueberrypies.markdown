@@ -6,10 +6,10 @@ author: Lauren Oas
 tags: pies
 primaryimage: download.jpeg
 ingredients: 
-- test ingredient 1
+- ingredient-heading: test ingredient 1
 - mustard
-- mayo
-- turkey
+- ingredient-heading: mayo
+- ingredient-heading: turkey
 - lettuce
 - tomato
 ---

@@ -6,12 +6,14 @@ author: Lauren Oas
 tags: [cookies, tomatoes, bacon, gluten-free, difficult, grill, one-pot, bread, no-cook, beef,chicken, vegan, vegetarian, cakes, pies, potatoes, slow-cooker, harley, horatio, test1, test2, lethal-weapon, bored, testing, test, moretest, againtest]
 primaryimage: veggies.jpeg
 ingredients: 
-- test ingredient 1
+- ingredient-heading: "For the Tomatoes:"
 - mustard
 - mayo
 - turkey
+- ingredient-heading: "For the Aioli:"  
 - lettuce
 - tomato
+- bacon
 servings: "80 grape tomatoes"
 preptime: "90 minutes"
 cooktime: "none!"
