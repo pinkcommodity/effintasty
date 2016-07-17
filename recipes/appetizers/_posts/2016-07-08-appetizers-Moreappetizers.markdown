@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: More appetizers
-primaryimage: veggies.jpeg
+primaryimage: placeholder.jpeg
 date: 2016-07-11
 ---
 

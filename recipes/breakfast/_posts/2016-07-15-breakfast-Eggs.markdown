@@ -1,17 +1,21 @@
 ---
 layout: recipe
-title:  "Mashed Potatoes"
-date:   2016-07-12
+title:  "Eggs"
+date:  2016-07-12
 author: Lauren Oas
-tags: meat
+tags: [cookies, tomatoes, bacon, gluten-free]
 primaryimage: placeholder.jpeg
 ingredients: 
-- test ingredient 1
+- cornbread
+- jalapenos
 - mustard
 - mayo
 - turkey
 - lettuce
 - tomato
+servings: "12 whoopie pies"
+preptime: "35 minutes"
+cooktime: "24 minutes"
 ---
 This is a tasty recipe that I've worked on for quite a while. 
 
