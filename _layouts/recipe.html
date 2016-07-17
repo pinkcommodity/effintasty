@@ -8,7 +8,9 @@ layout: default
     {% if page.blurb %}
     <p class="labeltext prep">{{page.blurb}}</p>
     {% endif %}
+    {% if page.source %}
     <p class="post-meta">Original Recipe: {{page.source}}</p>
+    {% endif %}
     <p class="post-meta"><time datetime="{{ page.date | date_to_long_string }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
   </header>
 
@@ -17,7 +19,7 @@ layout: default
 		{% endif %}
 	
 	<div class="prep">
-		<div class="recipe-banner-1"><span class="labeltext">Makes:</span> <br>{{ page.servings }}</div>
+		<div class="recipe-banner-1"><span class="labeltext">Yields:</span> <br>{{ page.servings }}</div>
 		<div class="recipe-banner-2"><span class="labeltext">Prep Time:</span> <br>{{ page.preptime }}</div>
 		<div class="recipe-banner-3"><span class="labeltext">Cook Time:</span> <br>{{ page.cooktime }}</div>
 	</div>
