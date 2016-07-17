@@ -4,7 +4,7 @@ title:  "Whoopie Pies"
 date:  2016-07-12
 author: Lauren Oas
 tags: [cookies, tomatoes, bacon, gluten-free]
-primaryimage: veggies.jpeg
+primaryimage: MiniTarts.jpeg
 ingredients: 
 - cornbread
 - jalapenos
