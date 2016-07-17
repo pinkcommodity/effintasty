@@ -298,6 +298,15 @@ pre {
     font-family: $special-font-family;
 }
 
+.ingredient-heading {
+    list-style-type: none;
+    font-weight: 900;
+}
+
+.sub-ingredient {
+    list-style-type: disc;
+}
+
 /**
 *Category Formatting
 */
