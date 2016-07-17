@@ -1,8 +1,9 @@
 ---
 layout: recipe
 title:  "BLT Stuffed Tomatoes"
-date:   2016-07-12
+date:   2016-07-16
 author: Lauren Oas
+blurb: Bite-sized tomatoes stuffed with bacon, lettuce and a spicy aioli.
 tags: [cookies, tomatoes, bacon, gluten-free, difficult, grill, one-pot, bread, no-cook, beef,chicken, vegan, vegetarian, cakes, pies, potatoes, slow-cooker, harley, horatio, test1, test2, lethal-weapon, bored, testing, test, moretest, againtest]
 primaryimage: veggies.jpeg
 ingredients: 
@@ -18,7 +19,7 @@ servings: "80 grape tomatoes"
 preptime: "90 minutes"
 cooktime: "none!"
 ---
-This is a tasty recipe that I've worked on for quite a while. 
+<b><em>READ THIS FIRST: This is a tasty recipe that I've worked on for quite a while. </em></b>
 
 1. preheat oven to 250degrees F
 2. mix ingredients
