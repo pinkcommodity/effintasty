@@ -14,7 +14,7 @@ ingredients:
 - 5-6 large romaine leaves
 - ingredient-heading: "For the Aioli:"  
 - 3-4 teaspoons chipotles in adobo (more if you really want a kick)
-- 1 teaspoon soy sauce
+- 1 teaspoon soy sauce 
 - 3/4 teaspoon granulated sugar
 - 5-6 drops liquid smoke
 - 1 egg yolk, room temperature
@@ -25,7 +25,7 @@ servings: "30 tomatoes"
 preptime: "90 minutes"
 cooktime: "none!"
 ---
-<b><em>READ THIS FIRST: These are incredibly addictive-I have made as many as 180 for a party, and I've NEVER had any leftover. You should plan for at least 5 tomatoes per person. You will likely have an excess of aioli, as this should be enough for as many as 75 tomatoes-just serve it on the side as a dip! I would also recommend making the aioli ahead of time to save time when it's time to serve. Do NOT use olive oil for your aioli! </em></b>
+<b><em>READ THIS FIRST: These are incredibly addictive-I have made as many as 180 for a 25 person party, and I've NEVER had any leftover. You should plan for at least 5 tomatoes per person. You will likely have an excess of aioli, as this should be enough for as many as 75 tomatoes-just serve it on the side as a dip! I would also recommend making the aioli a day ahead to save time when you need to serve. Do NOT use olive oil for your aioli (which I know makes it not really an aioli)! **This recipe is marked gluten-free, but please be sure to check your ingredients (especially your soy sauce) that they are marked "gluten-free" before you serve to anybody with dietary restrictions.</em></b>
 
 Aioli First (you can make this a day ahead):
 
