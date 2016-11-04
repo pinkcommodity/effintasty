@@ -2,9 +2,10 @@
 layout: recipe
 title:  "Lemon Garlic Chicken"
 date:   2016-10-16
+blurb: An easy, zesty marinade for chicken or fish-great for barbecue!
 author: Lauren Oas
 tags: [chicken, grill, quick&easy, gluten-free, make-ahead]
-primaryimage: MashedPotatoBalls.jpeg
+primaryimage: lemongarlicchicken.jpeg
 ingredients:
 - 3 large chicken breasts 
 - 1/2 cup olive oil
