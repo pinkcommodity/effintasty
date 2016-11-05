@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Effin&#39; Tasty</title>
-    <description>Effin&#39; Tasty is a cooking site dedicated to food, and the tastiest ways to  prepare it. We have recipes and prep techniques, along with delicous pictures.
+    <description>Effin&#39; Tasty is a cooking site dedicated to food, and the tastiest ways to  prepare it. We have recipes and prep techniques, along with delicious pictures.
 </description>
     <link>http://127.0.0.1:4000//</link>
     <atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Nov 2016 23:20:57 -0700</pubDate>
-    <lastBuildDate>Fri, 04 Nov 2016 23:20:57 -0700</lastBuildDate>
+    <pubDate>Fri, 04 Nov 2016 23:52:01 -0700</pubDate>
+    <lastBuildDate>Fri, 04 Nov 2016 23:52:01 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
