@@ -10,7 +10,7 @@ title: Effin' Tasty
 email: feedback@effintasty.com
 description: > # this means to ignore newlines until "baseurl:"
   Effin' Tasty is a cooking site dedicated to food, and the tastiest ways to 
-  prepare it. We have recipes and prep techniques, along with delicous pictures.
+  prepare it. We have recipes and prep techniques, along with delicious pictures.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
