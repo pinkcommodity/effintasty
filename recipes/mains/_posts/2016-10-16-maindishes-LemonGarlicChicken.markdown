@@ -19,7 +19,6 @@ preptime: "10 minutes"
 cooktime: "30 minutes"
 ---
 <b><em>READ THIS FIRST: This recipe is very garlicked up-we're a garlic household. The fresh garlic keeps the sharpness, the granulated intensifies the garlic flavor, and the salt brings a bit more depth. You can use this on chicken or a white fish (like tilapia), but it works better with chicken. This is a marinade, so the flavor if tested should be VERY strong-if you taste test, you're really just looking for balance, as your chicken will obviously not be as strongly flavored. **This recipe is marked gluten-free, but please be sure to check your ingredients (especially your soy sauce) that they are marked "gluten-free" before you serve to anybody with dietary restrictions. </em></b>
-This is a tasty recipe that I've worked on for quite a while. 
 
 1. Trim and prepare your chicken breasts, cutting at least 3 slits into each piece.
 2. Add your olive oil, lemon juice, minced garlic, granulated garlic, garlic salt, and pepper to a marinading container (such as a tupperware), whisk all together until thoroughly blended.
