@@ -1,11 +1,11 @@
 ---
 layout: recipe
 title:  "Yellow Cake"
-blurb: A super delicious white frosting that complements every cake flavor. 
-date:   2016-11-03
+blurb: A basic, light yellow cake sure to be a fan favorite! 
+date:   2016-11-04
 author: Lauren Oas
 tags: [vegetarian, frosting, no-cook]
-primaryimage: whitechoccreamcheesefrosting.jpeg
+primaryimage: yellowcupcake.jpeg
 source: http://sallysbakingaddiction.com/2014/08/24/moist-yellow-cupcakes-with-milk-chocolate-frosting/
 ingredients: 
 - 8 oz. cream cheese, softened
