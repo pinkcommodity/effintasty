@@ -219,7 +219,6 @@ pre {
   padding-top: 5px;
   padding-bottom: 5px;
   display: inline-block;
-  float: left;
   width: 100%;
   border-top: 2px;
   border-bottom: 2px;
@@ -228,6 +227,10 @@ pre {
   border-style: solid;
   border-color: #E09F3E;
   background-color: #fcf6ee; }
+
+.readfirst {
+  padding-top: 10px;
+  margin-top: 5px; }
 
 .labeltext {
   color: #19647E;
@@ -386,7 +389,8 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 20px 0; }
+  padding: 20px 0;
+  padding-bottom: 0; }
 
 .page-heading {
   font-size: 30px;
@@ -400,7 +404,8 @@ pre {
 
 .post-meta {
   font-size: 14px;
-  color: #19647E; }
+  color: #19647E;
+  margin-bottom: 0; }
 
 .post-link {
   display: block;
