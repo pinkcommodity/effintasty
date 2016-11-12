@@ -289,10 +289,14 @@ pre {
     border-style: solid;
     border-color: $nav-border;
     background-color: $nav-border-light;
+    margin-bottom: 5px;
     }
 .readfirst {
-    padding-top: 10px;
+    padding-top: 0px;
     margin-top: 5px;
+}
+.recipebody {
+    margin-top: 0px;
 }
 .labeltext {
     color: $header-title-color;

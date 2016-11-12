@@ -20,19 +20,15 @@ layout: default
 		<div class="recipe-banner-1"><span class="labeltext">Yields:</span> <br>{{ page.servings }}</div>
 		<div class="recipe-banner-2"><span class="labeltext">Prep Time:</span> <br>{{ page.preptime }}</div>
 		<div class="recipe-banner-3"><span class="labeltext">Cook Time:</span> <br>{{ page.cooktime }}</div>
-		<!-- <div>
-			{% if page.read %}
-			<span class="label tag label-info">READ THIS FIRST:</span> {{page.read}}
-			{% endif %}
-		</div> -->
 	</div>
 	{% if page.read %}
-		<div class="well readfirst">
-			<span class="label tag label-info">READ THIS FIRST:</span> {{page.read}}
+		<div class="panel readfirst">
+			<div class=readtext><span class="label tag label-info">READ THIS FIRST:</span> {{page.read}}
+			</div>
 		</div>
 	{% endif %}
 	
-	<div class="page-content">
+	<div class="recipe-body">
 		<div class="ingredients col-sm-4">
 				<h3>Ingredients</h3>
 			<ul>

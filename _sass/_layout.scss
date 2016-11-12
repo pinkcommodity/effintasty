@@ -206,12 +206,14 @@
     display: block;
     font-size: 24px;
 }
-
+.readtext {
+    margin-left: 3px;
+}
 /**
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 5px;
 }
 
 .post-title {
