@@ -46,7 +46,6 @@ img {
     vertical-align: middle;
 }
 .primaryimage {
-    padding-bottom: 15px;
     width: 95%;
     height: 95%;  
     margin: 0 auto;  
@@ -290,6 +289,7 @@ pre {
     border-color: $nav-border;
     background-color: $nav-border-light;
     margin-bottom: 5px;
+    margin-top: 10px;
     }
 .readfirst {
     padding-top: 0px;
