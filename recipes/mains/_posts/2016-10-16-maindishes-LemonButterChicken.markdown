@@ -15,9 +15,8 @@ ingredients:
 servings: 6
 preptime: 10 minutes
 cooktime: 30 minutes
+read: Be careful when adding your chicken to your pan that the butter doesn't splatter-it burns! I usually serve this with pasta and a starchy vegetable, like brussels sprouts.
 ---
-<b><em>READ THIS FIRST: Be careful when adding your chicken to your pan that the butter doesn't splatter-it burns! I usually serve this with pasta and a starchy vegetable, like brussels sprouts.  </em></b>
-
 1. Prepare and trim your chicken breasts, cutting to cutlet-sized pieces (a little bit larger than tenders).
 2. Heat your pan to medium-high, melting half of your butter (4 tablespoons) and allowing it to brown a bit. 
 3. While your pan heats, cover each cutlet with one coat of flour.

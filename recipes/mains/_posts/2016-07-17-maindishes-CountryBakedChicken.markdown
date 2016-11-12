@@ -18,10 +18,9 @@ ingredients:
 servings: "about 30 tenders"
 preptime: "20 minutes"
 cooktime: "25 minutes"
+read: I admit that I am not a huge fan of mayonnaise, and I use it as sparingly as possible-but the mayo coat makes this chicken SO JUICY. As with all tenders, the key is get equal-sized tenders, to ensure they cook evenly. If your tenders aren't equal size/thickness, you will likely have both undercooked and overcooked/dry tenders-seriously detracting from your delicious meal. The spice is great, and it's a pretty easy tender to assemble. Give it a try, you won't regret it! 
 ---
-<b><em>READ THIS FIRST: I admit that I am not a huge fan of mayonnaise, and I use it as sparingly as possible-but the mayo coat makes this chicken SO JUICY. As with all tenders, the key is get equal-sized tenders, to ensure they cook evenly. If your tenders aren't equal size/thickness, you will likely have both undercooked and overcooked/dry tenders-seriously detracting from your delicious meal. The spice is great, and it's a pretty easy tender to assemble. Give it a try, you won't regret it!</em></b>
-
-1. Preheat oven to 350F
+1. Preheat oven to 350 degrees F.
 2. Place a wire cooking rack on a cookie sheet (the cookie sheet will catch any panko that falls from your nuggets). 
 3. Trim and cut your chicken into tender-sized pieces. Whatever size you consider this to be, the key is to have equal pieces-this ensures they will cook evenly.
 4. In a large freezer bag, assemble the wet coat: add mayo, ground black pepper, granulated garlic, and 1 tablespoon of paprika. Mix thouroughly, ensuring there are no pockets of spice.

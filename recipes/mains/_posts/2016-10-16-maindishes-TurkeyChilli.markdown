@@ -19,9 +19,8 @@ ingredients:
 servings: 4 
 preptime: 5 minutes
 cooktime: 15 minutes
+read: This is my go-to lunchtime meal during the week, and super delicious. I usually eat one serving with 1/2 cup of white rice, and 1/2 cup of black beans. If you individually store your leftover servings, it's easier to reheat for each lunch! **This recipe is marked gluten-free, but please be sure to check your ingredients (especially your soy sauce) that they are marked "gluten-free" before you serve to anybody with dietary restrictions.
 ---
-<b><em>READ THIS FIRST: This is my go-to lunchtime meal during the week, and super delicious. I usually eat one serving with 1/2 cup of white rice, and 1/2 cup of black beans. If you individually store your leftover servings, it's easier to reheat for each lunch! **This recipe is marked gluten-free, but please be sure to check your ingredients (especially your soy sauce) that they are marked "gluten-free" before you serve to anybody with dietary restrictions. </em></b>
-
 1. Cook ground turkey thoroughly in a large wok.
 2. Add diced tomatoes, cumin, garlic, salt, onion, pepper, red pepper and chipotle to wok, mixing thoroughly. Reduce heat and simmer for 5 minutes.
 3. Serve with white rice and black beans, or eat ungarnished!
