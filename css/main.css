@@ -38,7 +38,6 @@ img {
   vertical-align: middle; }
 
 .primaryimage {
-  padding-bottom: 15px;
   width: 95%;
   height: 95%;
   margin: 0 auto; }
@@ -227,7 +226,8 @@ pre {
   border-style: solid;
   border-color: #E09F3E;
   background-color: #fcf6ee;
-  margin-bottom: 5px; }
+  margin-bottom: 5px;
+  margin-top: 10px; }
 
 .readfirst {
   padding-top: 0px;
