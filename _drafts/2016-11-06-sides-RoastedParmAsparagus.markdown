@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "Twice-Baked Mashed Potatoes"
+title:  "Roasted Parmesan Asparagus"
 date:   2016-07-17
 author: Lauren Oas
 blurb: All the benefits of twice-baked potatoes with none of the work.

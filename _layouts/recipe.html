@@ -8,9 +8,7 @@ layout: default
     {% if page.blurb %}
     <p class="labeltext prep">{{page.blurb}}</p>
     {% endif %}
-    {% if page.source %}
-    <p class="post-meta">Original Recipe: {{page.source}}</p>
-    {% endif %}
+    
     <p class="post-meta"><time datetime="{{ page.date | date_to_long_string }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
   </header>
 
@@ -22,7 +20,18 @@ layout: default
 		<div class="recipe-banner-1"><span class="labeltext">Yields:</span> <br>{{ page.servings }}</div>
 		<div class="recipe-banner-2"><span class="labeltext">Prep Time:</span> <br>{{ page.preptime }}</div>
 		<div class="recipe-banner-3"><span class="labeltext">Cook Time:</span> <br>{{ page.cooktime }}</div>
+		<!-- <div>
+			{% if page.read %}
+			<span class="label tag label-info">READ THIS FIRST:</span> {{page.read}}
+			{% endif %}
+		</div> -->
 	</div>
+	{% if page.read %}
+		<div class="well readfirst">
+			<span class="label tag label-info">READ THIS FIRST:</span> {{page.read}}
+		</div>
+	{% endif %}
+	
 	<div class="page-content">
 		<div class="ingredients col-sm-4">
 				<h3>Ingredients</h3>
@@ -52,6 +61,8 @@ layout: default
 		{% for tag_link in tag_links %}
 		<div class="label tag label-info">{{tag_link}}</div>
 		{% endfor %}
-
 	</div>
+	{% if page.source %}
+    <p class="post-meta">Original Recipe: {{page.source}}</p>
+    {% endif %}
 </article>

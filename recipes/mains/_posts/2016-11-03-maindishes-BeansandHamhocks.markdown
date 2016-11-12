@@ -1,8 +1,8 @@
 ---
 layout: recipe
 title:  "Beans and Hamhocks"
-blurb: Just like mom used to make! 
 date:   2016-11-03
+blurb: Just like mom used to make! 
 author: Lauren Oas
 tags: [slow-cooker, one-pot, basics, gluten-free]
 primaryimage: beansandhamhocks.jpeg
@@ -16,9 +16,8 @@ ingredients:
 servings: 6-8
 preptime: 10 min
 cooktime: 5 hours
+read: This is a super-hearty weeknight meal that my mom used to make. I usually just let the hamhocks cook into the beans, and take them out whole when the beans are done. I like these best when served with fresh mix-ins such as diced tomatoes, shredded cheddar cheese, diced onions, and fresh cilantro. **This recipe is marked gluten-free, but please be sure to check your ingredients that they are marked "gluten-free" before you serve to anybody with dietary restrictions.
 ---
-<b><em>READ THIS FIRST: This is a super-hearty weeknight meal that my mom used to make when I was little. I usually just let the hamhocks cook into the beans, and take them out whole when the beans are done. I like these best with served with fresh mix-ins: diced tomatoes, shredded cheddar cheese, diced onions, and fresh cilantro. **This recipe is marked gluten-free, but please be sure to check your ingredients (especially your soy sauce) that they are marked "gluten-free" before you serve to anybody with dietary restrictions.</em></b>
-
 1. Place hamhock into crock-pot.
 2. Put dried pinto beans into crock-pot. 
 3. Add seasoning to crock-pot, covering evenly the top of the beans and hamhock.

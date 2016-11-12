@@ -17,9 +17,8 @@ ingredients:
 servings: 24 cookies
 preptime: 2 hours, 15 min
 cooktime: 12 minutes
+read: This is NOT over 2 hours of active prep time, but the cookie dough must be refrigerated for at least 2 hours before you roll and bake. You can easily make the dough the night before you bake. The key with this dough is keeping it cold-the high content of butter makes it necessary. Personally, I like the taste of these cookies the day after they've been baked-they have a sort of Madeline quality to them. These cookies WILL NOT come out crispy-they are more like small cakes, so extending the cooking time only burns them-as does greasing your cookie sheet!
 ---
-<b><em>READ THIS FIRST: This is NOT over 2 hours of active prep time, but the cookie dough must be refrigerated for at least 2 hours before you roll and bake. You can easily make the dough the night before you bake. The key with this dough is keeping it cold-the high content of butter makes it necessary. Personally, I like the taste of these cookies the day after they've been baked-they have a sort of Madeline quality to them. These cookies WILL NOT come out crispy-they are more like small cakes, so extending the cooking time only burns them-as does greasing your cookie sheet!</em></b>
-
 1. Allow your butter and cream cheese to soften only slightly. 
 2. Using the paddle attachment of your stand mixer, thoroughly cream the cream cheese, butter and vanilla extract together. 
 3. Add the cake mix and egg, mixing thoroughly.

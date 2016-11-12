@@ -281,7 +281,6 @@ pre {
     padding-top: 5px;
     padding-bottom: 5px;
     display: inline-block;
-    float: left;
     width: 100%;
     border-top: 2px;
     border-bottom: 2px;
@@ -291,8 +290,9 @@ pre {
     border-color: $nav-border;
     background-color: $nav-border-light;
     }
-.read-first {
-    
+.readfirst {
+    padding-top: 10px;
+    margin-top: 5px;
 }
 .labeltext {
     color: $header-title-color;
