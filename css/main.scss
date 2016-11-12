@@ -24,8 +24,8 @@ $spacing-unit:     20px;
 $text-color:       #111;
 $header-title-color: #19647E;
 $brand-color:      #F7F5D2;
-$header-background:#28AFB0;
-$footer-background:#28AFB0;
+$header-background: #28AFB0;
+$footer-background: #28AFB0;
 $nav-border:       #E09F3E;
 $nav-border-light: lighten($nav-border, 40%);
 $nav-border-dark: darken($nav-border, 15%);
@@ -33,6 +33,7 @@ $meta-color:       #19647E;
 $meta-color-light: lighten($meta-color, 55%);
 $meta-color-dark:  darken($meta-color, 25%);
 $background-color: #F8F8FF;
+$read: lighten($header-background, 50%);
 
 // Width of the content area
 $content-width:    800px;
