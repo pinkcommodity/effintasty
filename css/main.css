@@ -226,11 +226,15 @@ pre {
   border-left: 0;
   border-style: solid;
   border-color: #E09F3E;
-  background-color: #fcf6ee; }
+  background-color: #fcf6ee;
+  margin-bottom: 5px; }
 
 .readfirst {
-  padding-top: 10px;
+  padding-top: 0px;
   margin-top: 5px; }
+
+.recipebody {
+  margin-top: 0px; }
 
 .labeltext {
   color: #19647E;
@@ -411,11 +415,14 @@ pre {
   display: block;
   font-size: 24px; }
 
+.readtext {
+  margin-left: 3px; }
+
 /**
  * Posts
  */
 .post-header {
-  margin-bottom: 20px; }
+  margin-bottom: 5px; }
 
 .post-title {
   font-size: 40px;
@@ -602,3 +609,7 @@ a:-webkit-any-link {
   padding-bottom: 0.2em;
   font-size: 80%;
   font-weight: 400; }
+
+.panel {
+  background-color: #dff8f8;
+  margin-bottom: 5px; }
