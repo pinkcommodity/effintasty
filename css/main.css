@@ -212,7 +212,7 @@ pre {
   text-align: left;
   padding-top: 10px; }
 
-.prep {
+.yellow-banner {
   padding-top: 5px;
   padding-bottom: 5px;
   display: inline-block;
@@ -224,7 +224,9 @@ pre {
   border-style: solid;
   border-color: #E09F3E;
   background-color: #fcf6ee;
-  margin-bottom: 5px;
+  margin-bottom: 5px; }
+
+.prep {
   margin-top: 10px; }
 
 .readfirst {
@@ -258,6 +260,9 @@ pre {
 
 .category-recipe-date {
   font-size: 10px; }
+
+.category-list {
+  margin-bottom: -5px; }
 
 /**
 *Tag Formatting
