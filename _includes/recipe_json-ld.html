@@ -4,7 +4,7 @@
   "@type": "Recipe",
   "name": "{{include.post.title}}",
   "author": "{{include.post.author}}",
-  {% if post.primaryimage %}
+  {% if include.post.primaryimage %}
   "image": "{{ site.url }}/assets/{{include.post.primaryimage}}",
   {% endif %}
   "description": "{{include.post.blurb}}",
@@ -13,6 +13,5 @@
   // "recipeYield": "8",
   "recipeIngredient" : {{ include.post.ingredients | jsonify }},
   "recipeInstructions": {{ include.post.content | strip_html | strip_newlines | strip | split: '.' | jsonify }}
-
 }
 </script>
