@@ -1,8 +1,8 @@
 ---
 layout: recipe
-title:  "Loaded Baked Potato Casserole"
+title:  "Potato Skin Casserole"
 date:  2016-08-13
-blurb: A casserole reminiscent of potato skins, with an extra kick of heat.
+blurb: All the best parts of potato skins, plus chicken and some serious heat.
 author: Lauren Oas
 tags: [potatoes, bacon, chicken, gluten-free]
 primaryimage: LoadedBakedPotato.jpeg
