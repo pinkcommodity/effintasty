@@ -179,6 +179,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    padding-bottom: 0;
 }
 
 .page-heading {
@@ -198,20 +199,21 @@
 .post-meta {
     font-size: $small-font-size;
     color: $meta-color;
+    margin-bottom: 0;
 }
 
 .post-link {
     display: block;
     font-size: 24px;
 }
-
-
-
+.readtext {
+    margin-left: 3px;
+}
 /**
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 5px;
 }
 
 .post-title {

@@ -16,9 +16,8 @@ ingredients:
 servings: frosting for 24 cupcakes
 preptime: 15 min
 cooktime: N/A
+read: This frosting is great for dying-it takes any color really well, and it's especially easy to manage color strengths. Just be sure to start small. When melting your white chocolate, be VERY careful not to burn in-not only will the consistency be like cottage cheese, but the charred flavor will ruin both the white chocolate flavor and the frosting, should you add it.
 ---
-<b><em>READ THIS FIRST: This frosting is great for dying-it takes any color really well, and it's especially easy to manage color strengths. Just be sure to start small. When melting your white chocolate, be VERY careful not to burn in-not only will the consistency be like cottage cheese, but the charred flavor will ruin both the white chocolate flavor and the frosting, should you add it.</em></b>
-
 1. Allow cream cheese and butter to soften (in general, I don't recommend using the microwave to accomplish this-especially with butter, it will be partially melted, lending your frosting the wrong consistency. With frosting, it's all about the consistency) 
 2. Melt your white chocolate-add your white chocolate to a microwave-safe bowl, and zap in 20 second intervals. After each zap, mix thoroughly with a small spatula. Be sure to mix! The morsels will look whole, but with a bit of pressure they fall apart, and you want your chocolate just barely melted.
 3. Cream butter and cream cheese in your stand mixer with a paddle attachment. 

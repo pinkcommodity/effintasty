@@ -19,9 +19,8 @@ ingredients:
 servings: 24 cupcakes
 preptime: 15 min
 cooktime: 20-25 min
+read: These are mildly chocolate, and super light (for cupcakes). It's a no-frills, no-fail recipe, and it's vegan, which is great!
 ---
-<b><em>READ THIS FIRST: These are mildly chocolate, and super light (for cupcakes). It's a no-frills, no-fail recipe, and it's vegan, which is great!</em></b>
-
 1. Preheat oven to 350 degrees F. Add cupcake liners to cupcake pan, and spray the top of the pan with non-stick spray. 
 2. Whisk together dry ingredients using whisk attachment of stand mixer.
 3. Add oil, vinegar, vanilla and water to dry mixture. Continue to whisk until smooth. 

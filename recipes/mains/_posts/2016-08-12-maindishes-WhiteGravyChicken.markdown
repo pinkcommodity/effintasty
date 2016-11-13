@@ -15,9 +15,8 @@ ingredients:
 servings: 6 chicken cutlets
 preptime: "15 minutes"
 cooktime: "30 minutes"
+read: This has been one of my favorite weeknight meals since high school, when my aunt introduced me to this ridiculously easy (and delicious!) meal. It is best served with plain white rice and steamed broccoli. **This recipe is marked gluten-free, but please be sure to check your ingredients (especially your soy sauce) that they are marked "gluten-free" before you serve to anybody with dietary restrictions.
 ---
-<b><em>READ THIS FIRST: This has been one of my favorite weeknight meals since high school, when my aunt introduced me to this ridiculously easy (and delicious!) meal. It is best served with plain white rice and steamed broccoli. **This recipe is marked gluten-free, but please be sure to check your ingredients (especially your soy sauce) that they are marked "gluten-free" before you serve to anybody with dietary restrictions. </em></b>
-
 1. Preheat oven to 350 degrees F.
 2. Prepare your chicken cutlets by cutting off any excess fat or skin. Cut each prepared breast to half thickness (your knife should be moving parallel to your cutting surface). You should have 6 chicken cutlets, but you can cut to smaller pieces if desired.
 3. Place chicken cutlets in a casserole dish, being careful to have no overlapping chicken. Equal depth of the chicken is key, to ensure that everything is consistently cooked through. 

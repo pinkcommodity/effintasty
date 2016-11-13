@@ -21,9 +21,8 @@ ingredients:
 servings: 48 patties 
 preptime: 15 minutes
 cooktime: 40 minutes
+read: This is a great recipe for meal prep, to eat on salads or in sandwiches for the work week. Traditionally, falafel is fried, but I prefer to bake it to keep things a bit lighter. I usually eat as a salad with only this and feta cheese. **This recipe is marked gluten-free, but please be sure to check your ingredients that they are marked "gluten-free" before you serve to anybody with dietary restrictions.
 ---
-<b><em>READ THIS FIRST: This is a great recipe for meal prep, to eat on salads or in sandwiches for the work week. Traditionally, falafel is fried, but I prefer to bake it to keep things a bit lighter. I usually eat as a salad with only this and feta cheese. **This recipe is marked gluten-free, but please be sure to check your ingredients (especially your soy sauce) that they are marked "gluten-free" before you serve to anybody with dietary restrictions. </em></b>
-
 1. Preheat oven to 375 degrees F.
 2. Add onion and garlic to food processor and blend thoroughly. Scrape into separate bowl and set aside.
 3. Add chickpeas, salt, cumin, parsley and cilantro to food processor and blend until thoroughly blended-but NOT a paste!

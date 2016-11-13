@@ -46,7 +46,6 @@ img {
     vertical-align: middle;
 }
 .primaryimage {
-    padding-bottom: 15px;
     width: 95%;
     height: 95%;  
     margin: 0 auto;  
@@ -268,20 +267,17 @@ pre {
 }
 .ingredients {
     float: left;
-    width: 42%;
     padding-top: 10px;
 }
 .directions {
     float: left;
     text-align: left;
-    width: 56%;
     padding-top: 10px;
 }
-.prep {
+.yellow-banner {
     padding-top: 5px;
     padding-bottom: 5px;
     display: inline-block;
-    float: left;
     width: 100%;
     border-top: 2px;
     border-bottom: 2px;
@@ -290,9 +286,17 @@ pre {
     border-style: solid;
     border-color: $nav-border;
     background-color: $nav-border-light;
+    margin-bottom: 5px;
     }
-.read-first {
-    
+.prep {
+    margin-top: 10px;
+}
+.readfirst {
+    padding-top: 0px;
+    margin-top: 5px;
+}
+.recipebody {
+    margin-top: 0px;
 }
 .labeltext {
     color: $header-title-color;
@@ -321,6 +325,9 @@ pre {
 }
 .category-recipe-date {
     font-size: 10px;
+}
+.category-list {
+    margin-bottom: -5px;
 }
 /**
 *Tag Formatting
