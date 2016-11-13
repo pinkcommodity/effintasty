@@ -1,0 +1,25 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Recipe",
+  "name": "{{include.post.title}}",
+  "author": "{{include.post.author}}",
+  {% if post.primaryimage %}
+  "image": "{{ site.url }}/assets/{{include.post.primaryimage}}",
+  {% endif %}
+  "description": "{{include.post.blurb}}",
+  // "prepTime": "PT30M",
+  // "totalTime": "PT3H",
+  // "recipeYield": "8",
+  "recipeIngredient": [
+  {% for ingredient in include.post.ingredients %}
+        "{{ ingredient }}",
+  {% endfor %}],
+  {% assign directions = include.post.content | strip_html | split: '.' %}
+  "recipeInstructions":[
+  {% for direction in directions %}
+        "{{ direction | strip }}",
+  {% endfor %}]
+
+}
+</script>
