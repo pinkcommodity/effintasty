@@ -12,12 +12,9 @@ layout: default
         <img class="img-responsive img-rounded" src="{{ site.baseurl }}/assets/{{post.primaryimage}}">
         {% endif %}
 
-        <h4 class="category-recipe-title">{{ post.title }}</h4></a>
-
-        <!-- Add schema.org JSON-LD -->
-        {% include recipe_json-ld.html post=post %}
+          <h4 class="category-recipe-title">{{ post.title }}</h4></a>
           
-      </div>
+        </div>
      
       {% endfor %}
        </div>
