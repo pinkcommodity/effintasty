@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Effin&#39; Tasty</title>
-    <description>Effin&#39; Tasty is a cooking site dedicated to food, and the tastiest ways to  prepare it. We have recipes and prep techniques, along with delicious pictures.
+    <title>Effin' Tasty</title>
+    <description>Effin' Tasty is a cooking site dedicated to food, and the tastiest ways to  prepare it. We have recipes and prep techniques, along with delicious pictures.
 </description>
     <link>http://127.0.0.1:4000//</link>
     <atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Nov 2016 17:41:16 -0800</pubDate>
-    <lastBuildDate>Sat, 12 Nov 2016 17:41:16 -0800</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Sun, 13 Nov 2016 16:10:53 -0800</pubDate>
+    <lastBuildDate>Sun, 13 Nov 2016 16:10:53 -0800</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>Parmesan Roasted Pumpkin Seeds</title>
         <description>&lt;ol&gt;
-  &lt;li&gt;Preheat oven to 350 degrees F. &lt;/li&gt;
+  &lt;li&gt;Preheat oven to 350 degrees F.&lt;/li&gt;
   &lt;li&gt;Place pumpkins seeds in medium bowl.&lt;/li&gt;
-  &lt;li&gt;Add oil and seasoning and cheese, tossing to coat. &lt;/li&gt;
+  &lt;li&gt;Add oil and seasoning and cheese, tossing to coat.&lt;/li&gt;
   &lt;li&gt;Spread onto a foil-covered cookie sheet, without layering your seeds.&lt;/li&gt;
   &lt;li&gt;Roast for 10 min, or until a light golden brown.&lt;/li&gt;
 &lt;/ol&gt;
@@ -44,9 +44,9 @@
       <item>
         <title>Garlic Roasted Pumpkin Seeds</title>
         <description>&lt;ol&gt;
-  &lt;li&gt;Preheat oven to 350 degrees F. &lt;/li&gt;
+  &lt;li&gt;Preheat oven to 350 degrees F.&lt;/li&gt;
   &lt;li&gt;Place pumpkins seeds in medium bowl.&lt;/li&gt;
-  &lt;li&gt;Add oil and seasoning, tossing to coat. &lt;/li&gt;
+  &lt;li&gt;Add oil and seasoning, tossing to coat.&lt;/li&gt;
   &lt;li&gt;Spread onto a foil-covered cookie sheet, without layering your seeds.&lt;/li&gt;
   &lt;li&gt;Roast for 10 min, or until a light golden brown.&lt;/li&gt;
 &lt;/ol&gt;
@@ -76,10 +76,10 @@
         <title>Beans and Hamhocks</title>
         <description>&lt;ol&gt;
   &lt;li&gt;Place hamhock into crock-pot.&lt;/li&gt;
-  &lt;li&gt;Put dried pinto beans into crock-pot. &lt;/li&gt;
+  &lt;li&gt;Put dried pinto beans into crock-pot.&lt;/li&gt;
   &lt;li&gt;Add seasoning to crock-pot, covering evenly the top of the beans and hamhock.&lt;/li&gt;
   &lt;li&gt;Add water to crock-pot, giving everything a thorough mix.&lt;/li&gt;
-  &lt;li&gt;Cover crock-pot and cook on HIGH for 5 hours. &lt;/li&gt;
+  &lt;li&gt;Cover crock-pot and cook on HIGH for 5 hours.&lt;/li&gt;
   &lt;li&gt;Serve beans with fresh mix-ins or eat plain. Feel free to shred and mix in the hamhock meat as well!&lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -96,18 +96,18 @@
         <category>gluten-free</category>
         
         
-        <category>mains</category>
-        
         <category>recipes</category>
+        
+        <category>mains</category>
         
       </item>
     
       <item>
         <title>White Chocolate Cream Cheese Frosting</title>
         <description>&lt;ol&gt;
-  &lt;li&gt;Allow cream cheese and butter to soften (in general, I don’t recommend using the microwave to accomplish this-especially with butter, it will be partially melted, lending your frosting the wrong consistency. With frosting, it’s all about the consistency) &lt;/li&gt;
+  &lt;li&gt;Allow cream cheese and butter to soften (in general, I don’t recommend using the microwave to accomplish this-especially with butter, it will be partially melted, lending your frosting the wrong consistency. With frosting, it’s all about the consistency)&lt;/li&gt;
   &lt;li&gt;Melt your white chocolate-add your white chocolate to a microwave-safe bowl, and zap in 20 second intervals. After each zap, mix thoroughly with a small spatula. Be sure to mix! The morsels will look whole, but with a bit of pressure they fall apart, and you want your chocolate just barely melted.&lt;/li&gt;
-  &lt;li&gt;Cream butter and cream cheese in your stand mixer with a paddle attachment. &lt;/li&gt;
+  &lt;li&gt;Cream butter and cream cheese in your stand mixer with a paddle attachment.&lt;/li&gt;
   &lt;li&gt;Add white chocolate and vanilla, mixing thoroughly.&lt;/li&gt;
   &lt;li&gt;Add one cup of powdered sugar-and continue to add until you have the desired consistency. If you need a thicker frosting, add more than the suggested 3 cups! If you overindulge and your frosting is too thick, just add a splash of milk, mixing thoroughly, until you are back to your preferred consistency. 
 Pipe or spread onto cake or cupcakes!&lt;/li&gt;
@@ -124,18 +124,18 @@ Pipe or spread onto cake or cupcakes!&lt;/li&gt;
         <category>no-cook</category>
         
         
-        <category>desserts</category>
-        
         <category>recipes</category>
+        
+        <category>desserts</category>
         
       </item>
     
       <item>
         <title>Vegan Chocolate Cupcakes</title>
         <description>&lt;ol&gt;
-  &lt;li&gt;Preheat oven to 350 degrees F. Add cupcake liners to cupcake pan, and spray the top of the pan with non-stick spray. &lt;/li&gt;
+  &lt;li&gt;Preheat oven to 350 degrees F. Add cupcake liners to cupcake pan, and spray the top of the pan with non-stick spray.&lt;/li&gt;
   &lt;li&gt;Whisk together dry ingredients using whisk attachment of stand mixer.&lt;/li&gt;
-  &lt;li&gt;Add oil, vinegar, vanilla and water to dry mixture. Continue to whisk until smooth. &lt;/li&gt;
+  &lt;li&gt;Add oil, vinegar, vanilla and water to dry mixture. Continue to whisk until smooth.&lt;/li&gt;
   &lt;li&gt;Spoon batter into cupcake liners, filling each about 3/4 full.&lt;/li&gt;
   &lt;li&gt;Bake for 20-25 minutes, or until a toothpick inserted into a cupcake comes out clean.&lt;/li&gt;
 &lt;/ol&gt;
@@ -153,22 +153,22 @@ Pipe or spread onto cake or cupcakes!&lt;/li&gt;
         <category>quick&amp;easy</category>
         
         
-        <category>desserts</category>
-        
         <category>recipes</category>
+        
+        <category>desserts</category>
         
       </item>
     
       <item>
         <title>Death by Butter Cookies</title>
         <description>&lt;ol&gt;
-  &lt;li&gt;Allow your butter and cream cheese to soften only slightly. &lt;/li&gt;
-  &lt;li&gt;Using the paddle attachment of your stand mixer, thoroughly cream the cream cheese, butter and vanilla extract together. &lt;/li&gt;
+  &lt;li&gt;Allow your butter and cream cheese to soften only slightly.&lt;/li&gt;
+  &lt;li&gt;Using the paddle attachment of your stand mixer, thoroughly cream the cream cheese, butter and vanilla extract together.&lt;/li&gt;
   &lt;li&gt;Add the cake mix and egg, mixing thoroughly.&lt;/li&gt;
-  &lt;li&gt;Cover dough with plastic wrap and refrigerate AT LEAST 2 hours. It’s key that you don’t shorten this step, if the dough is too warm, it’ll be tacky and difficult to roll. An easy test is to check your fingers-if your fingers are covered in dough, the dough is too warm and should be placed back in your fridge. &lt;/li&gt;
+  &lt;li&gt;Cover dough with plastic wrap and refrigerate AT LEAST 2 hours. It’s key that you don’t shorten this step, if the dough is too warm, it’ll be tacky and difficult to roll. An easy test is to check your fingers-if your fingers are covered in dough, the dough is too warm and should be placed back in your fridge.&lt;/li&gt;
   &lt;li&gt;Once properly cooled, preheat your oven to 350 F degrees. Place powdered sugar in a small bowl.&lt;/li&gt;
   &lt;li&gt;Take your dough out of the fridge. Pinch off walnut-sized portions of dough, roll into balls and then cover in powdered sugar. Place ball on cookie sheet, about 2 inches apart-the dough has a pretty good spread as it cooks, so be sure to give your cookies enough room on the cookie sheet!&lt;/li&gt;
-  &lt;li&gt;Bake for 12 minutes, or until a rich golden brown on the bottom. &lt;/li&gt;
+  &lt;li&gt;Bake for 12 minutes, or until a rich golden brown on the bottom.&lt;/li&gt;
   &lt;li&gt;Allow to cool on the pan. Dust with additional powdered sugar.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -183,9 +183,9 @@ Pipe or spread onto cake or cupcakes!&lt;/li&gt;
         <category>make-ahead</category>
         
         
-        <category>desserts</category>
-        
         <category>recipes</category>
+        
+        <category>desserts</category>
         
       </item>
     
@@ -197,7 +197,7 @@ Pipe or spread onto cake or cupcakes!&lt;/li&gt;
   &lt;li&gt;Add chickpeas, salt, cumin, parsley and cilantro to food processor and blend until thoroughly blended-but NOT a paste!&lt;/li&gt;
   &lt;li&gt;Add onion and garlic paste to chickpea mixture, blending thoroughly.&lt;/li&gt;
   &lt;li&gt;Add baking powder and 1 tablespoon flour to the chickpea and onion mixture, pulsing in the food processor until a dough starts to form. You’re looking for a playdough-like consistency. Continue to add flour until you get the desired consistency.&lt;/li&gt;
-  &lt;li&gt;Scrape dough into separate bowl, ensuring that all ingredients are thoroughly mixed from the corners of the food processing bowl. &lt;/li&gt;
+  &lt;li&gt;Scrape dough into separate bowl, ensuring that all ingredients are thoroughly mixed from the corners of the food processing bowl.&lt;/li&gt;
   &lt;li&gt;Spray cookie sheet with cooking spray. **If you’re going to fry your falafel, heat your oil.&lt;/li&gt;
   &lt;li&gt;Using a medium cookie scoop or spoon, place walnut-sized balls of dough onto the cookie sheet. Flatten each ball with a spoon or fork. **The falafel will barely expand when baking, so these disks can be pretty close to each other.&lt;/li&gt;
   &lt;li&gt;Bake for 40 minutes, allow to cool before serving.&lt;/li&gt;
@@ -243,9 +243,9 @@ Pipe or spread onto cake or cupcakes!&lt;/li&gt;
         <category>healthy/light</category>
         
         
-        <category>mains</category>
-        
         <category>recipes</category>
+        
+        <category>mains</category>
         
       </item>
     
@@ -273,9 +273,9 @@ Pipe or spread onto cake or cupcakes!&lt;/li&gt;
         <category>make-ahead</category>
         
         
-        <category>mains</category>
-        
         <category>recipes</category>
+        
+        <category>mains</category>
         
       </item>
     
@@ -283,13 +283,13 @@ Pipe or spread onto cake or cupcakes!&lt;/li&gt;
         <title>Lemon Butter Chicken</title>
         <description>&lt;ol&gt;
   &lt;li&gt;Prepare and trim your chicken breasts, cutting to cutlet-sized pieces (a little bit larger than tenders).&lt;/li&gt;
-  &lt;li&gt;Heat your pan to medium-high, melting half of your butter (4 tablespoons) and allowing it to brown a bit. &lt;/li&gt;
+  &lt;li&gt;Heat your pan to medium-high, melting half of your butter (4 tablespoons) and allowing it to brown a bit.&lt;/li&gt;
   &lt;li&gt;While your pan heats, cover each cutlet with one coat of flour.&lt;/li&gt;
-  &lt;li&gt;After your butter has browned a bit, add half of your lemon juice. &lt;/li&gt;
-  &lt;li&gt;Place your chicken in the pan, allowing it to cook in the lemon butter for 10 minutes. &lt;/li&gt;
-  &lt;li&gt;Take chicken out of pan, add the other half of the butter and lemon juice to the pan, allowing the butter to melt. &lt;/li&gt;
+  &lt;li&gt;After your butter has browned a bit, add half of your lemon juice.&lt;/li&gt;
+  &lt;li&gt;Place your chicken in the pan, allowing it to cook in the lemon butter for 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Take chicken out of pan, add the other half of the butter and lemon juice to the pan, allowing the butter to melt.&lt;/li&gt;
   &lt;li&gt;Once melted, add the chicken back to the pan, uncooked-side down. Allow to cook for an additional 10 minutes.&lt;/li&gt;
-  &lt;li&gt;Once fully cooked, add chicken to serving dish, scraping the juices from the pan into the dish.    &lt;/li&gt;
+  &lt;li&gt;Once fully cooked, add chicken to serving dish, scraping the juices from the pan into the dish.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 16 Oct 2016 00:00:00 -0700</pubDate>
@@ -305,9 +305,9 @@ Pipe or spread onto cake or cupcakes!&lt;/li&gt;
         <category>one-pot</category>
         
         
-        <category>mains</category>
-        
         <category>recipes</category>
+        
+        <category>mains</category>
         
       </item>
     
