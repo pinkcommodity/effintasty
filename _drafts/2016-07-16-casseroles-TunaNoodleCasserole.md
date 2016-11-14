@@ -3,7 +3,7 @@ layout: recipe
 title:  "Tuna Noodle Casserole"
 date:  2016-07-16
 author: Lauren Oas
-tags: [quick&easy, pasta]
+tags: [easy, pasta]
 primaryimage: placeholder.jpeg
 ingredients: 
 - 1 pound large elbow macaroni (or any pasta with crevices)

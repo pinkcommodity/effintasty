@@ -4,7 +4,7 @@ title:  "Parmesan Roasted Pumpkin Seeds"
 blurb: A fall favorite with pumpkin carving! 
 date:   2016-11-03
 author: Lauren Oas
-tags: [vegan, vegetarian, basics, quick&easy, healthy/light]
+tags: [vegan, vegetarian, basics, easy, healthy]
 primaryimage: parmesanpumpkinseeds.jpeg
 ingredients: 
 - 1 1/2 cups pumpkin seeds

@@ -5,7 +5,7 @@ date:   2016-10-16
 blurb: An easy sandwich filler or salad topper-goes great with feta cheese!
 source: http://www.justataste.com/homemade-falafel-with-tahini-sauce/
 author: Lauren Oas
-tags: [quick&easy, vegan, gluten-free, healthy/light]
+tags: [easy, vegan, gluten-free, healthy]
 primaryimage: falafel.jpeg
 ingredients: 
 - 2 cups diced onion

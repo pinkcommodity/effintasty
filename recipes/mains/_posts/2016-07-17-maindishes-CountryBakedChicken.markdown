@@ -4,7 +4,7 @@ title:  "Country Baked Chicken"
 blurb: Super moist and tasty chicken tenders with a crunchy texture. 
 date:   2016-08-12
 author: Lauren Oas
-tags: [chicken, quick&easy]
+tags: [chicken, easy]
 primaryimage: countrybakedchicken.jpeg
 source: Inspired by http://www.foodnetwork.com/recipes/food-network-kitchens/oven-fried-chicken-recipe.html
 ingredients: 
