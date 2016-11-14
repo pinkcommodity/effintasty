@@ -30,3 +30,4 @@ tag_permalink_style: pretty
 
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap

@@ -7,3 +7,4 @@ gem 'nuggets'
 gem 'jgd', '~> 1.7'
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
