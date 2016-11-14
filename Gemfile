@@ -8,5 +8,4 @@ gem 'jgd', '~> 1.7'
 
 group :jekyll_plugins do
   gem 'github-pages'
-  gem "jekyll-json-ld"
 end
