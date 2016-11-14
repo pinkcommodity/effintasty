@@ -4,7 +4,7 @@ title:  "White Gravy Chicken"
 date:   2016-07-17
 blurb: A delicious, easy weeknight meal that everyone will enjoy!
 author: Lauren Oas
-tags: [quick&easy, chicken, gluten-free]
+tags: [easy, chicken, gluten-free]
 primaryimage: whitegravychicken.jpeg
 source: My Aunt Cheri
 ingredients: 

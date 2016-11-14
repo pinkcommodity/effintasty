@@ -5,7 +5,7 @@ date:   2016-11-06
 author: Lauren Oas
 blurb: A fancified take on basic roast asparagus.
 source:  
-tags: [vegetarian, quick&easy, gluten-free]
+tags: [vegetarian, easy, gluten-free]
 primaryimage: roastedparmasparagus.jpeg
 ingredients: 
 - 1 pound asparagus
