@@ -5,4 +5,8 @@ source "https://rubygems.org"
 gem "jekyll-watch"
 gem 'nuggets'
 gem 'jgd', '~> 1.7'
-gem 'github-pages', group: :jekyll_plugins
+
+group :jekyll_plugins do
+  gem 'github-pages'
+  gem "jekyll-json-ld"
+end
