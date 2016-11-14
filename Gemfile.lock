@@ -77,9 +77,6 @@ GEM
     jekyll-github-metadata (2.2.0)
       jekyll (~> 3.1)
       octokit (~> 4.0, != 4.4.0)
-    jekyll-json-ld (0.0.2)
-      jekyll (~> 3.0)
-      json-ld (~> 1.99)
     jekyll-mentions (1.2.0)
       activesupport (~> 4.0)
       html-pipeline (~> 2.3)
@@ -105,11 +102,7 @@ GEM
       jekyll (>= 1.5.1)
       trollop (= 2.1.2)
     json (1.8.3)
-    json-ld (1.99.2)
-      multi_json (~> 1.11)
-      rdf (~> 1.99)
     kramdown (1.11.1)
-    link_header (0.0.8)
     liquid (3.0.6)
     listen (3.0.6)
       rb-fsevent (>= 0.9.3)
@@ -118,7 +111,6 @@ GEM
     mini_portile2 (2.1.0)
     minima (2.0.0)
     minitest (5.9.1)
-    multi_json (1.12.1)
     multipart-post (2.0.0)
     net-dns (0.8.0)
     nokogiri (1.6.8.1)
@@ -132,8 +124,6 @@ GEM
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
-    rdf (1.99.1)
-      link_header (~> 0.0, >= 0.0.8)
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
@@ -155,7 +145,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-json-ld
   jekyll-watch
   jgd (~> 1.7)
   nuggets
