@@ -5,7 +5,4 @@ source "https://rubygems.org"
 gem "jekyll-watch"
 gem 'nuggets'
 gem 'jgd', '~> 1.7'
-
-group :jekyll_plugins do
-  gem 'github-pages'
-end
+gem 'github-pages', group: :jekyll_plugins
