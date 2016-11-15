@@ -228,7 +228,7 @@ module Jekyll
     end
     
     def category_html(category, category_dir)
-      %Q(<a class="activeimage" href='#{category_dir}/'><img class="img-responsive img-rounded" src="/assets/#{category_image(category)}">
+      %Q(<a class="activeimage" href='#{category_dir}/'><img class="img-responsive img-rounded" src="/assets/#{category_image(category)}" alt="#{category.capitalize}">
         <h2 class="category-recipe-title">#{category.capitalize}</h2></a>)
     end
 

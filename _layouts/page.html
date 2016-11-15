@@ -7,12 +7,12 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 {% if page.primaryimage %}
-	<img class="img-rounded img-responsive primaryimage" src="{{ site.baseurl }}/assets/{{page.primaryimage}}">
+	<img class="img-rounded img-responsive primaryimage" src="{{ site.baseurl }}/assets/{{page.primaryimage}}" alt="{{page.primaryimage_description}}">
 {% endif %}
   <div class="post-content">
     {{ content }}
   </div>
 {% if page.secondaryimage %}
-	<img class="img-rounded img-responsive primaryimage" src="{{ site.baseurl }}/assets/{{page.secondaryimage}}">
+	<img class="img-rounded img-responsive primaryimage" src="{{ site.baseurl }}/assets/{{page.secondaryimage}}" alt="{{page.secondaryimage_description}}">
 {% endif %}
 </article>
