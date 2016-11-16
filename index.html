@@ -2,8 +2,6 @@
 layout: default
 ---
 <h1>New & Tasty</h1>
-
-  <ul class="category-list">
    <div class="row">
     {% for post in site.categories.recipes limit: 3 %}
       <div class="col-sm-4">
@@ -21,7 +19,6 @@ layout: default
      
       {% endfor %}
        </div>
-    </ul>
 
   <a href="{{ site.baseurl }}/about">
     <div class="row welcome-mat">
@@ -31,7 +28,6 @@ layout: default
   </a>
 
 <h1 id="welcome-mat-room">Types o' Tasty</h1>
-  <ul class="category-list">
     <div class="row">
     <!-- Sort categories -->
     {% assign sorted_categories = site.categories | sort %}
@@ -47,7 +43,6 @@ layout: default
     <div class="col-sm-3">{{ category_name_array | category_links }}</div>
     {% endfor %}
     </div>
-  </ul>
 
 <div class="yellow-banner"><span class="labeltext">Or, Browse by Tags:</span> 
     {% assign tag_links = (site | tags) %}

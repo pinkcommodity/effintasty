@@ -4,7 +4,6 @@ layout: default
 <h1 class="category">{{ page.title | capitalize }}</h1>
 
 <div class="row">
-	<ul class="posts">
 
 		{% assign sorted_posts=(site.categories[page.category]) | sort:"title" %}
 
@@ -21,5 +20,4 @@ layout: default
 			</div>
         {% cycle 'end row' : nil, nil, '</div>' %}
 		{% endfor %}
-	</ul>
 </div>
