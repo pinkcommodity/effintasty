@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 primaryimage: winerypic_unedited.jpg
+primaryimage_description: "Lauren and Tyler holding hands at a winery"
 secondaryimage: Puppy_pic.jpg
+secondaryimage_description: "collage of two dogs"
 ---
 Before I loved to cook, I loved to eat. As I experienced new and delicious foods, I ​enjoyed the creativity and excitement that ​went into making them. ​I began to get a sense of my favorite flavors and their complements.
 
