@@ -34,14 +34,15 @@ layout: default
 			<ul>
 			{% for ingredient in page.ingredients %}
 				{% if ingredient.ingredient-heading %}
-					<li class="ingredient-heading labeltext">{{ ingredient.ingredient-heading }}
-		    	{% endif %}
-		    	{% unless ingredient.ingredient-heading %} 
-			    	<ul>
-				    	<li class="sub-ingredient">{{ ingredient }}</li>
-				    </ul>
-			    {% endunless %}
-				</li>
+					<li class="ingredient-heading labeltext">{{ ingredient.ingredient-heading }}</li>
+		    {% endif %}
+		    {% unless ingredient.ingredient-heading %} 
+        <li class="ingredient-sublist">
+          <ul>
+				    <li class="sub-ingredient">{{ ingredient }}</li>
+				  </ul>
+        </li>
+			 {% endunless %}
 			 {% endfor %}
 			</ul>
 		</div>
