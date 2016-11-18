@@ -245,6 +245,12 @@ pre {
   list-style-type: none;
   font-weight: 900; }
 
+.ingredients-list {
+  margin-left: 0px; }
+
+.ingredient-sublist {
+  list-style-type: none; }
+
 .sub-ingredient {
   list-style-type: disc; }
 
