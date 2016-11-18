@@ -31,7 +31,7 @@ layout: default
 	<div class="row recipe-body">
     <div class="ingredients col-xs-12 col-sm-4">
       <h3>Ingredients</h3>
-			<ul>
+			<ul class="ingredients-list">
 			{% for ingredient in page.ingredients %}
 				{% if ingredient.ingredient-heading %}
 					<li class="ingredient-heading labeltext">{{ ingredient.ingredient-heading }}</li>
