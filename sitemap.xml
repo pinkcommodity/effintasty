@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://effintasty.com/recipes/mains/2018/02/24/maindishes-SpaghettiBolognese.html</loc>
+    <lastmod>2018-02-24T00:00:00-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://effintasty.com/recipes/casseroles/2018/02/24/casseroles-TunaNoodleCasserole.html</loc>
+    <lastmod>2018-02-24T00:00:00-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://effintasty.com/recipes/snacks/2016/11/03/snacks-ParmesanRoastedPumpkinSeeds.html</loc>
     <lastmod>2016-11-03T00:00:00-07:00</lastmod>
   </url>
@@ -112,6 +120,15 @@
   </url>
   <url>
     <loc>http://effintasty.com/tag/slow-cooker/</loc>
+  </url>
+  <url>
+    <loc>http://effintasty.com/tag/quick&easy/</loc>
+  </url>
+  <url>
+    <loc>http://effintasty.com/tag/pasta/</loc>
+  </url>
+  <url>
+    <loc>http://effintasty.com/tag/beef/</loc>
   </url>
   <url>
     <loc>http://effintasty.com/categories/recipes/</loc>
