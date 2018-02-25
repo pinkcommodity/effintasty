@@ -4,7 +4,7 @@ title:  "Vegan Chocolate Cupcakes"
 blurb: A light chocolate cake, great for both cupcakes and sheet cakes! 
 date:   2016-11-03
 author: Lauren Oas
-tags: [vegan, vegetarian, cakes, quick&easy]
+tags: [vegan, vegetarian, cakes, easy]
 primaryimage: veganchocolatecupcakes.jpeg
 ingredients: 
 -  3 cups all-purpose flour

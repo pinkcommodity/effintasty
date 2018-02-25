@@ -4,7 +4,6 @@ layout: default
 <h1 class="category">{{ page.title | capitalize }}</h1>
 
 <div class="row">
-	<ul class="posts">
 
 		{% assign sorted_posts=(site.categories[page.category]) | sort:"title" %}
 
@@ -13,7 +12,7 @@ layout: default
 		
 			<div class="col-sm-4"><a class="activeimage" href="{{ post.url }}">
 		{% if post.primaryimage %}
-			<img class="img-responsive img-rounded autoimage" src="{{ site.baseurl }}/assets/{{post.primaryimage}}">
+			<img class="img-responsive img-rounded autoimage" src="{{ site.baseurl }}/assets/{{post.primaryimage}}" alt="{{post.title}}">
 		{% endif %}
 			<h3 class="category-recipe-title">{{ post.title }}</h3></a>
 			<!-- <div class="category-recipe-date">{{ post.date | date_to_long_string }}</div> -->
@@ -21,5 +20,5 @@ layout: default
 			</div>
         {% cycle 'end row' : nil, nil, '</div>' %}
 		{% endfor %}
-	</ul>
+    {% cycle 'end row' : nil, '</div>', '</div>' %}
 </div>

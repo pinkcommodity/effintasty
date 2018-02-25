@@ -4,7 +4,7 @@ title:  "Turkey Chilli"
 date:   2016-10-16
 blurb: A tasty, protein-rich lunchtime chilli!
 author: Lauren Oas
-tags: [quick&easy, one-pot, gluten-free, healthy/light]
+tags: [easy, one-pot, gluten-free, healthy]
 primaryimage: turkeychilli.jpeg
 ingredients: 
 - 1.5 pounds ground turkey (one flat)

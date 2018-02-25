@@ -3,7 +3,7 @@ layout: recipe
 title:  "Lemon Garlic Chicken"
 date:   2016-10-16
 author: Lauren Oas
-tags: [chicken, grill, quick&easy, gluten-free, make-ahead]
+tags: [chicken, grill, easy, gluten-free, make-ahead]
 primaryimage: MashedPotatoBalls.jpeg
 ingredients:
 - 3 large chicken breasts 
