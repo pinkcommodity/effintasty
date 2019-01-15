@@ -17,7 +17,7 @@ ingredients:
 servings: "8-10 servings"
 preptime: "25 minutes"
 cooktime: "25 minutes"
-read: This is a pretty easy recipe, but be careful that you don't add too many dumplings to the broth in one drop-this can create pockets of flour when it comes time to eat. For chicken, rotisserie is a popular choice, but I usually go with my [Easy Peasy Brown Butter Chicken]
+read: This is a pretty easy recipe, but be careful that you don't add too many dumplings to the broth in one drop-this can create pockets of flour when it comes time to eat. For chicken, rotisserie is a popular choice.
 ---
 1. In a medium mixing bowl, combine flour, salt and baking powder mixing together thoroughly. 
 2. Cut butter into small chunks and cut into flour mixture using a fork or (easier) a dough blender. You shouldn't see chunks of butter in your flour mixture-it should be thoroughly cut in. **NOTE: A dough-blender makes a world of difference here, it's worth the investment.**
