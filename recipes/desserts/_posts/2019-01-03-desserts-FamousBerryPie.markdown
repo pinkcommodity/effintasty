@@ -21,10 +21,8 @@ ingredients:
 servings: "6-10"
 preptime: "2.5 hours, mostly chilling time"
 cooktime: "55+ minutes"
+read: This is my famous berry pie recipe, which is actually my mother's famous berry pie recipe, which is actually my Aunt Anne's blueberry pie recipe. I've made this multiple times, and I think the true secret is a berry blend. I get the tri-berry blend from Costco because they're available year round, and provide a delicious mix of blueberry, strawberry and blackberry. Frozen I find to be more reliable, as fresh out-of-season berries (berries are in season in the summer) just don't have great flavor-and they're wildly expensive. It's VERY IMPORTANT to give yourself enough time to properly chill everything, and be sure your pie is cooked BEFORE any meal you plan to serve it with-the pie will need time to sit and cool down before you can serve it. Homemade pie dough is super easy, delicious and cheap, but you can use store-bought, or use my [Pie Dough Recipe].
 ---
-<b><em>READ THIS FIRST:  </em></b>
-This is my famous berry pie recipe, which is actually my mother's famous berry pie recipe, which is actually my Aunt Anne's blueberry pie recipe. I've made this multiple times, and I think the true secret is a berry blend. I get the tri-berry blend from Costco because they're available year round, and provide a delicious mix of blueberry, strawberry and blackberry. Frozen I find to be more reliable, as fresh out-of-season berries (berries are in season in the summer) just don't have great flavor-and they're wildly expensive. It's VERY IMPORTANT to give yourself enough time to properly chill everything, and be sure your pie is cooked BEFORE any meal you plan to serve it with-the pie will need time to sit and cool down before you can serve it. Homemade pie dough is super easy, delicious and cheap, but you can use store-bought, or use my [Pie Dough Recipe].
-
 1. If using frozen berries, bring 2 cups to room temperature (via microwave-usually 45 seconds will do it).
 2. In a small bowl, rub lemon zest into the sugar using your fingers.
 3. **NO HEAT** In a medium saucepan, add the 2 cups of room temperature berries to cornstarch and mix thoroughly-your berries CANNOT be hot or the cornstarch will lump up. Using a potato masher or large spoon, smash your berries to release as much juice as possible, mixing thoroughly into a milky slurry.
@@ -43,6 +41,4 @@ This is my famous berry pie recipe, which is actually my mother's famous berry p
 16. Rotate pie 180 degrees, reduce oven heat to 375 degrees F. 
 17. Continue to rotate pie every 20 minutes until done, you're looking for your pie crust to be a rich golden brown, with the dough you see through the glass of your pie dish to be a goden brown as well (though not as deep). **NOTE:** If your pie edges begin to burn, place aluminum foil over them to protect them from the heat, this typically happens after the first 20 min rotation.
 18. Remove from oven and place on wire cooling rack to cool for at least 3 hours before serving. 
-18. **NOTE: 
-15. 
 
