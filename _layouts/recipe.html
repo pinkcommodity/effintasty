@@ -1,5 +1,6 @@
 ---
 layout: default
+page_type: "recipe"
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -8,14 +9,14 @@ layout: default
     {% if page.blurb %}
     <p class="labeltext yellow-banner">{{page.blurb}}</p>
     {% endif %}
-    
+
  <!--    <p class="post-meta"><time datetime="{{ page.date | date_to_long_string }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p> -->
   </header>
 
 	{% if page.primaryimage %}
 			<img class="img-rounded img-responsive primaryimage" src="{{ site.baseurl }}/assets/{{page.primaryimage}}" alt="{{page.title}}">
 		{% endif %}
-	
+
 	<div class="prep yellow-banner">
 		<div class="recipe-banner-1"><span class="labeltext">Yields:</span> <br>{{ page.servings }}</div>
 		<div class="recipe-banner-2"><span class="labeltext">Prep Time:</span> <br>{{ page.preptime }}</div>
@@ -27,7 +28,7 @@ layout: default
 			</div>
 		</div>
 	{% endif %}
-	
+
 	<div class="row recipe-body">
     <div class="ingredients col-xs-12 col-sm-4">
       <h3>Ingredients</h3>
@@ -36,7 +37,7 @@ layout: default
 				{% if ingredient.ingredient-heading %}
 					<li class="ingredient-heading labeltext">{{ ingredient.ingredient-heading }}</li>
 		    {% endif %}
-		    {% unless ingredient.ingredient-heading %} 
+		    {% unless ingredient.ingredient-heading %}
         <li class="ingredient-sublist">
           <ul>
 				    <li class="sub-ingredient">{{ ingredient }}</li>
@@ -53,7 +54,7 @@ layout: default
 	  				</div>
 		</div>
 	</div>
-	<div class="yellow-banner"><span class="labeltext">Recipe Tags:</span> 
+	<div class="yellow-banner"><span class="labeltext">Recipe Tags:</span>
 		{% assign tag_links = (page | tags) %}
 		{% for tag_link in tag_links %}
 		<div class="label tag label-info">{{tag_link}}</div>
