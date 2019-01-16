@@ -4,7 +4,7 @@ title:  "Dijon Pork Loin"
 date:   2019-01-06
 author: Lauren Oas
 tags: [pies, fruit ]
-primaryimage: DijonPorkLoin.JPG
+image: assets/DijonPorkLoin.JPG
 ingredients:
 - 7 cups berry blend (frozen or fresh)
 - 3/4 cup granulated sugar
@@ -18,7 +18,7 @@ preptime: "2.5 hours, mostly chilling time"
 cooktime: "55+ minutes"
 ---
 <b><em>READ THIS FIRST:  </em></b>
-This is a tasty recipe that I've worked on for quite a while. 
+This is a tasty recipe that I've worked on for quite a while.
 
 1. Trim and prepare your chicken breasts, cutting at least 3 slits into each piece.
 2. Add your olive oil, lemon juice, minced garlic, granulated garlic, garlic salt, and pepper to a marinading container (such as a tupperware), whisk all together until thoroughly blended.

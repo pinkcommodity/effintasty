@@ -84,7 +84,7 @@ module Jekyll
         # Set page-type
         self.data['type']        = "category"
         # Set category image.
-        self.data['image']       = "#{category}_image.jpeg"
+        self.data['image']       = "assets/#{category}_image.jpeg"
         # Set the meta-description for this page.
         meta_description_prefix  = site.config['category_meta_description_prefix'] || 'Category: '
         self.data['description'] = "#{meta_description_prefix}#{category}"
@@ -226,7 +226,7 @@ module Jekyll
         categories.join(', ')
       end
     end
-    
+
     def category_html(category, category_dir)
       %Q(<a class="activeimage" href='#{category_dir}/'><img class="img-responsive img-rounded" src="/assets/#{category_image(category)}" alt="#{category.capitalize}">
         <h2 class="category-recipe-title">#{category.capitalize}</h2></a>)

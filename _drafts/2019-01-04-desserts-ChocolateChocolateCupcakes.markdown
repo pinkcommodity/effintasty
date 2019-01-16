@@ -4,8 +4,8 @@ title:  "ChocolateChocolate Cupcakes"
 date:  2019-01-04
 author: Lauren Oas
 tags: [cakes]
-primaryimage: ChocolateChocolateCupcakes.jpg
-ingredients: 
+image: assets/ChocolateChocolateCupcakes.jpg
+ingredients:
 - cornbread
 - jalapenos
 - mustard
@@ -17,7 +17,7 @@ servings: "12 whoopie pies"
 preptime: "35 minutes"
 cooktime: "24 minutes"
 ---
-This is a tasty recipe that I've worked on for quite a while. 
+This is a tasty recipe that I've worked on for quite a while.
 
 1. preheat oven to 250degrees F
 2. mix ingredients

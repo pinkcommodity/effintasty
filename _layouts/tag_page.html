@@ -8,8 +8,8 @@ layout: default
 		{% for post in sorted_posts %}
     {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
 			<div class="col-sm-3"><a class="activeimage" href="{{ post.url }}">
-				{% if post.primaryimage %}
-					<img class="img-responsive img-rounded" src="{{ site.baseurl }}/assets/{{post.primaryimage}}">
+				{% if post.image %}
+					<img class="img-responsive img-rounded" src="{{ site.baseurl }}/{{post.image}}">
 				{% endif %}
 					<h4 class="category-recipe-title">{{ post.title }}</h4></a>
 			</div>
@@ -19,7 +19,7 @@ layout: default
 </div>
 
 <div class="row">
-<div class="prep"><span class="labeltext">All Tags:</span> 
+<div class="prep"><span class="labeltext">All Tags:</span>
 		{% assign tag_links = (site | tags) %}
 		{% for tag_link in tag_links %}
 		<div class="label tag label-info">{{tag_link}}</div>

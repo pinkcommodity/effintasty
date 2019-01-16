@@ -5,10 +5,10 @@
   "name": "{{include.post.title}}",
   "author": "{{include.post.author}}",
   "recipeYield": "{{include.post.servings}}",
-  {% if include.post.primaryimage %}
-  "image": "{{ site.url }}/assets/{{include.post.primaryimage}}",
+  {% if include.post.image %}
+  "image": "{{ site.url }}/assets/{{include.post.image}}",
   {% endif %}
-  "description": "{{include.post.blurb}}",
+  "description": "{{include.post.description}}",
   "recipeIngredient" : {{ include.post.ingredients | jsonify }},
   "recipeInstructions": {{ include.post.content | strip_html | strip_newlines | strip | split: '.' | jsonify }}
 }

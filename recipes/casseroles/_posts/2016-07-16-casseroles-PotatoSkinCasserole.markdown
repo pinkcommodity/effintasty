@@ -2,12 +2,12 @@
 layout: recipe
 title:  "Potato Skin Casserole"
 date:  2016-08-13
-blurb: All the best parts of potato skins, plus chicken and some serious heat.
+description: All the best parts of potato skins, plus chicken and some serious heat.
 author: Lauren Oas
 tags: [potatoes, bacon, chicken, gluten-free]
-primaryimage: LoadedBakedPotato.jpeg
+image: assets/LoadedBakedPotato.jpeg
 source: http://cooklisacook.blogspot.ca/2012/03/loaded-potato-buffalo-chicken-casserole.html
-ingredients: 
+ingredients:
 - 4 pounds (about 5 large) russet potatoes
 - 3/4 cup of olive oil
 - 3/4 cup hot sauce
@@ -16,7 +16,7 @@ ingredients:
 - 2 tablespoons paprika
 - 2 cups shredded cheddar cheese
 - 1 bunch (about 1 cup chopped) green onions
-- 1 1/4 pounds (about 1 cup crumbled) bacon 
+- 1 1/4 pounds (about 1 cup crumbled) bacon
 servings: "8 servings"
 preptime: "30 minutes"
 cooktime: "90 minutes"
@@ -24,12 +24,12 @@ read: This recipe is as delicious as it is time-intensive. The prep time can ove
 ---
 1. Preheat oven to 500 degrees F.
 2. Dice potatoes into 1/2-inch cubes, leaving the skin on.
-3. In a large bowl, whisk together olive oil, hot sauce, salt, pepper and paprika. 
-4. Reserve 1/2-3/4 cup of sauce, to coat chicken. (You can always some back to your potatoes if necessary).  
+3. In a large bowl, whisk together olive oil, hot sauce, salt, pepper and paprika.
+4. Reserve 1/2-3/4 cup of sauce, to coat chicken. (You can always some back to your potatoes if necessary).
 5. Add potatoes to sauce, tossing to coat thoroughly. Pour potatoes into a deep casserole dish. **A deep dish makes it MUCH easier to toss your potatoes when you roast them.
-6. Roast potatoes for 45 minutes, tossing every 15 minutes. 
+6. Roast potatoes for 45 minutes, tossing every 15 minutes.
 7. While your potatoes are roasting, fry up your bacon. **A general rule of mine is to add a few extra pieces, just in case you get sniped-by yourself or others tempted by the bacon smell.
 8. Rough-chop your bacon once cooled, and mix in a small bowl with the cheddar cheese and chopped green onions. Set aside.
-9. Dice your chicken into bite-sized pieces, and add to your previously used potato bowl. Add your reserved sauce to the raw chicken and toss to coat. 
-10. Once you've finished your 45 minute potato roast, toss the potatoes one last time. Add the chicken evenly to the top of the potatoes, and then coat with your cheese and bacon mixture. Reduce oven temperature to 400 degrees F. 
+9. Dice your chicken into bite-sized pieces, and add to your previously used potato bowl. Add your reserved sauce to the raw chicken and toss to coat.
+10. Once you've finished your 45 minute potato roast, toss the potatoes one last time. Add the chicken evenly to the top of the potatoes, and then coat with your cheese and bacon mixture. Reduce oven temperature to 400 degrees F.
 11. Cook for about 20 minutes, until the cheese bubbles. Allow to cool before serving.
