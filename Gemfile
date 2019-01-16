@@ -2,6 +2,7 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
+gem 'pry'
 gem "jekyll-watch"
 gem 'nuggets'
 gem 'jgd', '~> 1.7'
