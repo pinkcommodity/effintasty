@@ -607,8 +607,7 @@ a.label:focus, a.label:hover {
 
 a:-webkit-any-link {
   color: #F7F5D2;
-  text-decoration: none;
-  cursor: auto; }
+  text-decoration: none; }
 
 .label-info {
   background-color: #19647E; }
