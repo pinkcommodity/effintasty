@@ -4,7 +4,7 @@ title:  "Spaghetti Bolognese"
 description: A rich but easy weeknight spaghetti dish!
 date:   2018-02-24
 author: Lauren Oas
-tags: [one-pot, quick-and-easy, pasta, beef]
+tags: [one-pot, quick&easy, pasta, beef]
 image: assets/spaghettibolognese.jpeg
 source: Effin Tasty original!
 ingredients:
