@@ -6,7 +6,7 @@
   "author": "{{include.post.author}}",
   "recipeYield": "{{include.post.servings}}",
   {% if include.post.image %}
-  "image": "{{ site.url }}/assets/{{include.post.image}}",
+  "image": "{{ site.url }}/{{include.post.image}}",
   {% endif %}
   "description": "{{include.post.description}}",
   "recipeIngredient" : {{ include.post.ingredients | jsonify }},
