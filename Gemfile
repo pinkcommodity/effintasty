@@ -5,7 +5,10 @@ source "https://rubygems.org"
 gem 'pry'
 gem "jekyll-watch"
 gem 'nuggets'
-gem 'jgd', '~> 1.7'
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-seo-tag'
-gem 'jekyll-sitemap'
+gem 'jgd'
+
+group :jekyll_plugins do
+  gem 'jekyll'
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
+end
