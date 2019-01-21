@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Effin&#39; Tasty</title>
-    <description>Effin&#39; Tasty is a cooking site dedicated to food, and the tastiest ways to prepare it. We have recipes and prep techniques, along with delicious pictures.
+    <title>Effin' Tasty</title>
+    <description>Effin' Tasty is a cooking site dedicated to food, and the tastiest ways to prepare it. We have recipes and prep techniques, along with delicious pictures.
 </description>
     <link>http://effintasty.com/</link>
     <atom:link href="http://effintasty.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Jan 2019 13:59:09 -0700</pubDate>
-    <lastBuildDate>Mon, 21 Jan 2019 13:59:09 -0700</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Mon, 21 Jan 2019 16:39:12 -0700</pubDate>
+    <lastBuildDate>Mon, 21 Jan 2019 16:39:12 -0700</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>Basic Pie Dough</title>
@@ -107,7 +107,7 @@
         
         <category>healthy/light</category>
         
-        <category>quick-and-easy</category>
+        <category>quick&amp;easy</category>
         
         
         <category>appetizers</category>
@@ -164,7 +164,7 @@
         
         <category>one-pot</category>
         
-        <category>quick-and-easy</category>
+        <category>quick&amp;easy</category>
         
         <category>pasta</category>
         
@@ -193,7 +193,7 @@
         <link>http://effintasty.com/recipes/casseroles/2018/02/24/casseroles-TunaNoodleCasserole.html</link>
         <guid isPermaLink="true">http://effintasty.com/recipes/casseroles/2018/02/24/casseroles-TunaNoodleCasserole.html</guid>
         
-        <category>quick-and-easy</category>
+        <category>quick&amp;easy</category>
         
         <category>pasta</category>
         
