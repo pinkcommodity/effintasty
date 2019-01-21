@@ -4,7 +4,7 @@ title:  "Garlic Roasted Pumpkin Seeds"
 description: A fall favorite with pumpkin carving!
 date:   2016-11-03
 author: Lauren Oas
-tags: [vegan, vegetarian, basics, easy, healthy]
+tags: [vegan, vegetarian, easy, healthy]
 image: assets/garlicpumpkinseeds.jpeg
 ingredients:
 - 1 1/2 cups pumpkin seeds

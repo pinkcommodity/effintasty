@@ -4,7 +4,7 @@ title:  "Beans and Hamhocks"
 date:   2016-11-03
 description: Just like mom used to make!
 author: Lauren Oas
-tags: [slow-cooker, one-pot, basics, gluten-free]
+tags: [slow-cooker, one-pot, gluten-free]
 image: assets/beansandhamhocks.jpeg
 ingredients:
 - 3 cups dried pinto beans
