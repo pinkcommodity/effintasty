@@ -54,7 +54,7 @@ layout: default
 		</div>
 	</div>
 	<div class="yellow-banner"><span class="labeltext">Recipe Tags:</span>
-		{% assign tag_links = (page | tags) %}
+		{% assign tag_links = page | tags %}
 		{% for tag_link in tag_links %}
 		<div class="label tag label-info">{{tag_link}}</div>
 		{% endfor %}

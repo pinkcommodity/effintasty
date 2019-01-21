@@ -33,7 +33,7 @@ layout: default
     {% assign sorted_categories = site.categories | sort %}
     {% for category in sorted_categories %}
     <!-- Grab the category name ( which is the first string in the array, it's [categoryName, [categoryposts...]]) -->
-    {% assign category_name = (category | first) %}
+    {% assign category_name = category | first %}
     <!-- Skip the "recipes" category -->
     {% if category_name == "recipes" %}
     {% continue %}
@@ -45,7 +45,7 @@ layout: default
     </div>
 
 <div class="yellow-banner"><span class="labeltext">Or, Browse by Tags:</span>
-    {% assign tag_links = (site | tags) %}
+    {% assign tag_links = site | tags %}
     {% for tag_link in tag_links %}
     <div class="label tag label-info">{{tag_link}}</div>
     {% endfor %}
