@@ -621,3 +621,19 @@ a:-webkit-any-link {
 .panel {
   background-color: #dff8f8;
   margin-bottom: 5px; }
+
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+  background-color: transparent; }
+
+.nav > li > a:focus, .nav > li > a:hover {
+  background-color: transparent; }
+
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+  background-color: transparent;
+  color: #F7F5D2; }
+
+.dropdown-menu > li > a {
+  color: #F7F5D2; }
+
+.navbar {
+  margin-bottom: 0px; }
