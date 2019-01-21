@@ -3,6 +3,7 @@ layout: recipe
 title:  "Bruschetta"
 date:  2019-01-04
 author: Lauren Oas
+description: A classic Italian appetizer that is as easy as it is delicious!
 tags: [vegetarian, healthy/light, quick&easy]
 image: assets/bruschetta.jpg
 source: Mom
