@@ -27,6 +27,7 @@ cooktime: "none!"
 read: These are incredibly addictive-I have made as many as 180 for a 25 person party, and I've NEVER had any leftover. You should plan for at least 5 tomatoes per person. You will likely have an excess of aioli, as this should be enough for as many as 75 tomatoes-just serve it on the side as a dip! I would also recommend making the aioli a day ahead to save time when you need to serve. Do NOT use olive oil for your aioli (which I know makes it not really an aioli)! **This recipe is marked gluten-free, but please be sure to check your ingredients that they are marked "gluten-free" before you serve to anybody with dietary restrictions.
 ---
 Aioli First (you can make this a day ahead):
+
 1. Combine the chipotle, soy sauce, sugar, and liquid smoke in a blender. **Even though this is an exceedingly small volume for a full-sized blender, it will work! An immersion blender or a food processor will not work because the blade is not low enough in the bowl (I've tried-and failed).
 2. In a medium bowl, whisk together the egg yolk, lemon juice and Dijon mustard until fully incorporated.
 3. Whisking constantly, start to slowly add the grapeseed oil-you want a very small, stead stream. **If you see that the oil is separated from the egg yolk mixture, stop pouring and whisk until all ingredients are incorporated, then resume your oil pouring.
