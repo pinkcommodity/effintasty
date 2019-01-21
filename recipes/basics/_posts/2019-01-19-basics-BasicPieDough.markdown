@@ -15,9 +15,8 @@ ingredients:
 servings: 1 pie shell
 preptime: "10 minutes"
 cooktime: "none!"
+read: The key to pie dough is keeping your ingredients cold-mainly the butter. If the butter starts to warm up, it gets soft/greasy and your dough will have the wrong consistency. Also, when adding water, you want to add as little COLD water as possible-just enough to bind the dough together. This makes 1 pie shell, which is the bottom OR the top for a fruit pie-you will need to double the batch if you are making a pie that requires a top. This recipe can easily be doubled, but it's easier to work with single batches, so I recommend making each batch one at a time instead of making a larger batch and then trying to roll that out. </em></b>
 ---
-<b><em>READ THIS FIRST: The key to pie dough is keeping your ingredients cold-mainly the butter. If the butter starts to warm up, it gets soft/greasy and your dough will have the wrong consistency. Also, when adding water, you want to add as little COLD water as possible-just enough to bind the dough together. This makes 1 pie shell, which is the bottom OR the top for a fruit pie-you will need to double the batch if you are making a pie that requires a top. This recipe can easily be doubled, but it's easier to work with single batches, so I recommend making each batch one at a time instead of making a larger batch and then trying to roll that out. </em></b>
-
 1. Combine the flour, salt and sugar in a medium bowl.
 2. Take your butter out of the fridge, and cut into pieces, approximately 1/2 tablespoon size. This just makes it easier to incorporate your flour mixture with the butter.
 3. Using a pastry blender (or food processor if you're fancy), cut the butter into the flour mixture. You're looking for a flaky consistency that will stick together a bit if you push it together, but will crumble almost immediately.
