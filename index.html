@@ -126,6 +126,8 @@
         
           
         
+          
+        
       </div>
     </nav>
 
@@ -139,6 +141,34 @@
         <h1>New & Tasty</h1>
    <div class="row">
     
+      <div class="col-sm-4">
+        <a class="activeimage" href="/recipes/basics/2019/01/19/basics-BasicPieDough.html">
+        
+        <img class="img-responsive img-rounded" src="assets/PieDough.jpeg" alt="Basic Pie Dough">
+        
+
+        <h4 class="category-recipe-title">Basic Pie Dough</h4></a>
+
+        <!-- Add schema.org JSON-LD -->
+        <script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Recipe",
+  "name": "Basic Pie Dough",
+  "author": "Lauren Oas",
+  "recipeYield": "1 pie shell",
+  
+  "image": "http://effintasty.com/assets/PieDough.jpeg",
+  
+  "description": "A simple, versatile pie dough that can be used with sweet or savory fillings.",
+  "recipeIngredient" : ["1 cup flour","1/2 teaspoon salt","1 tablespoon sugar","1 stick (1/2 cup) cold butter","2-3 tablespoons cold water"],
+  "recipeInstructions": ["READ THIS FIRST: The key to pie dough is keeping your ingredients cold-mainly the butter"," If the butter starts to warm up, it gets soft/greasy and your dough will have the wrong consistency"," Also, when adding water, you want to add as little COLD water as possible-just enough to bind the dough together"," This makes 1 pie shell, which is the bottom OR the top for a fruit pie-you will need to double the batch if you are making a pie that requires a top"," This recipe can easily be doubled, but it’s easier to work with single batches, so I recommend making each batch one at a time instead of making a larger batch and then trying to roll that out","   Combine the flour, salt and sugar in a medium bowl","  Take your butter out of the fridge, and cut into pieces, approximately 1/2 tablespoon size"," This just makes it easier to incorporate your flour mixture with the butter","  Using a pastry blender (or food processor if you’re fancy), cut the butter into the flour mixture"," You’re looking for a flaky consistency that will stick together a bit if you push it together, but will crumble almost immediately","  Add 2 tablespoons of cold water directly from your fridge if you can (tap water will be lukewarm)"," You can use a wooden spoon to combine the ingredients, but I usually just use a fork"," Operate under the knowledge that the less water you add, the better!  Add another tablespoon of water if your dough doesn’t quite come together"," You want your dough to be dry but stable-it should be tacky, but neither should is fall apart once rolled into a ball","  Place your ball of pie dough onto a sheet of plastic wrap, wrapping the dough completely"," Make sure that no dough is exposed to the air, as that will cause the dough to dry out and harden"," Flatten dough into a disk once wrapped","  You must refrigerate the dough for at least 2 hours before you use the dough (the butter in the dough must remain cold)"," This can be made several days in advance"]
+}
+</script>
+
+      </div>
+
+      
       <div class="col-sm-4">
         <a class="activeimage" href="/recipes/desserts/2019/01/04/desserts-FamousBerryPie.html">
         
@@ -195,34 +225,6 @@
       </div>
 
       
-      <div class="col-sm-4">
-        <a class="activeimage" href="/recipes/mains/2019/01/03/maindishes-ChickenandDumplings.html">
-        
-        <img class="img-responsive img-rounded" src="assets/chickenanddumplings.jpg" alt="Chicken & Dumplings">
-        
-
-        <h4 class="category-recipe-title">Chicken & Dumplings</h4></a>
-
-        <!-- Add schema.org JSON-LD -->
-        <script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Chicken & Dumplings",
-  "author": "Lauren Oas",
-  "recipeYield": "8-10 servings",
-  
-  "image": "http://effintasty.com/assets/chickenanddumplings.jpg",
-  
-  "description": "A delicious scratch-made classic that is easily one of my favorite recipes!",
-  "recipeIngredient" : ["2 cups flour, plus extra for dusting","1/2 teaspoon baking powder","1/4 teaspoon salt","1 cup milk","2 quarts (16 cups) chicken broth","3 cups cooked chicken, shredded in large chunks"],
-  "recipeInstructions": ["  In a medium mixing bowl, combine flour, salt and baking powder mixing together thoroughly","  Cut butter into small chunks and cut into flour mixture using a fork or (easier) a dough blender"," You shouldn’t see chunks of butter in your flour mixture-it should be thoroughly cut in"," NOTE: A dough-blender makes a world of difference here, it’s worth the investment","  Add milk, stirring in with a fork until dough comes together"," Dough will be slightly tacky","  Heavily flour a work surface, scraping your dough onto the floured surface","  Roll out dough, flouring heavily, to about 1/8-1/4” thickness","  Using a pizza cutter or paring knife, cut dough into ~2”x2” squares"," This doesn’t have to be precise"," Don’t re-roll the dough to get the squares even","  Boil chicken broth in large soup pot"," You’re looking for a strong boil, once achieved reduce heat to medium","  Flour plate and using a spatula add a SINGLE LAYER of dumplings to the plate","  Carefully place dumplings individually, and all flour on plate, into boiling chicken broth","  Repeat steps 8 and 9 until all dumplings are boiling","  Boil dumplings for about 15 minutes","  Add cooked chicken to pot, cook altogether about 5 min"]
-}
-</script>
-
-      </div>
-
-      
        </div>
 
   <a href="/about">
@@ -245,6 +247,15 @@
     
     <div class="col-sm-3"><a class="activeimage" href='/categories/appetizers/'><img class="img-responsive img-rounded" src="/assets/appetizers_image.jpeg" alt="Appetizers">
         <h2 class="category-recipe-title">Appetizers</h2></a></div>
+    
+    <!-- Grab the category name ( which is the first string in the array, it's [categoryName, [categoryposts...]]) -->
+    
+    <!-- Skip the "recipes" category -->
+    
+    <!-- category_links expects an array, so we put our single category into an array -->
+    
+    <div class="col-sm-3"><a class="activeimage" href='/categories/basics/'><img class="img-responsive img-rounded" src="/assets/basics_image.jpeg" alt="Basics">
+        <h2 class="category-recipe-title">Basics</h2></a></div>
     
     <!-- Grab the category name ( which is the first string in the array, it's [categoryName, [categoryposts...]]) -->
     

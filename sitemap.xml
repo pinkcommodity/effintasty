@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://effintasty.com/recipes/basics/2019/01/19/basics-BasicPieDough.html</loc>
+    <lastmod>2019-01-19T00:00:00-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://effintasty.com/recipes/desserts/2019/01/04/desserts-FamousBerryPie.html</loc>
     <lastmod>2019-01-04T00:00:00-07:00</lastmod>
   </url>
@@ -171,5 +175,8 @@
   </url>
   <url>
     <loc>http://effintasty.com/categories/snacks/</loc>
+  </url>
+  <url>
+    <loc>http://effintasty.com/categories/basics/</loc>
   </url>
 </urlset>
