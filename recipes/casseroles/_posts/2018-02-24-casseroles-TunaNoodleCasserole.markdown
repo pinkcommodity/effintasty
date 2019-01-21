@@ -4,7 +4,7 @@ title:  "Tuna Noodle Casserole"
 description: This has been one of my favorites since I was little, and I appreciate it even more now that I realize how easy it is to make!
 date:  2018-02-24
 author: Lauren Oas
-tags: [quick&easy, pasta]
+tags: [quick-and-easy, pasta]
 image: assets/tunanoodlecasserole.jpeg
 source: My mother, this has been a family favorite as long as I can remember.
 ingredients:
