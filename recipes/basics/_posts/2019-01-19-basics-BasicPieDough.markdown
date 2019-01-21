@@ -4,7 +4,7 @@ title:  "Basic Pie Dough"
 date:   2019-01-19
 author: Lauren Oas
 description: A simple, versatile pie dough that can be used with sweet or savory fillings.
-tags: [vegetarian, pies, basics, no-cook]
+tags: [vegetarian, pies, no-cook]
 image: assets/PieDough.jpeg
 ingredients:
 - 1 cup flour

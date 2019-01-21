@@ -4,7 +4,7 @@ title:  "Lemon Butter Chicken"
 description: An easy, basic chicken for lots of different meals.
 date:   2016-10-16
 author: Lauren Oas
-tags: [chicken, easy, basics, one-pot]
+tags: [chicken, easy, one-pot]
 image: assets/lemonbutterchicken.jpeg
 ingredients:
 - 4 large chicken breasts (about 3 pounds)
