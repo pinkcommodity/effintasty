@@ -8,10 +8,10 @@ tags: [beef, pasta]
 image: assets/ChilliMac.jpg
 source: Mac Cookbook
 ingredients:
--
+
 servings: "10-12 servings"
 preptime: "[30 minutes]"
 cooktime: "[90 minutes]"
+read: I reduced the chilli proportion from the original recipe, as I like a balance between the mac and the chilli. Also, when adding your chilli to your mac use a slotted spoon or similar, as you don't want to add all the chilli juices and make this dish runny. The chilli recipe is pretty legit on its own, so if you're ever in the mood for some delicious chilli, this recipe would work as well! 
 ---
-<b><em>READ THIS FIRST: This recipe is as delicious as it is time-intensive. The prep time can overlap some of the prep time, so it's not fully 2 hours that you'll need to make this, but it's not a quick week night meal. If you need to reduce the spice, increase your olive oil to hot sauce proportion (you really need to have enough wet ingredients, so don't just cut hot sauce). Serve it up with ranch dressing or sour cream, and you're all set! this casserole delivers truly magical leftovers too! **This recipe is marked gluten-free, but please be sure to check your ingredients (especially your soy sauce) that they are marked "gluten-free" before you serve to anybody with dietary restrictions. </em></b>
 1. Preheat oven to 500 degrees F.
