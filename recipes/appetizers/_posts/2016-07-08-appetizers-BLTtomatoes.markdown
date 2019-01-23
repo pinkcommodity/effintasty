@@ -40,4 +40,4 @@ Now for the Tomatoes:
 3. Slice your lettuce leaves into small pieces along the crispy vein of the leaf. This will make it easier to stuff the tomato if you have the firm lettuce vein to push into the tomato-and it adds a fresh crunch to compliment the bacon when eaten.
 4. Pipe your aioli into each tomato, filling about 1/3 of the inside of the tomato. **To prepare for piping, but you aioli in a freezer bag (a sandwich bag is a little too thin), and cut a very small corner off of the bag-the whole created should be about half the size of a #2 pencil.
 5. After piping is complete, put any leftover aioli back into the fridge to be served with the tomatoes as a dip.
-6. Take a piece of bacon and a piece of tomato together, and place into the tomato. **This part is also tedious, but as you go you'll hit your groove and pick up the pace. Especially if you do over 100.
+6. Take a piece of bacon and a piece of lettuce together, and place into the tomato. **This part is also tedious, but as you go you'll hit your groove and pick up the pace. Especially if you do over 100.
