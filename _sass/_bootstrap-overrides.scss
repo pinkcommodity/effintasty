@@ -18,3 +18,23 @@ a:-webkit-any-link {
 	background-color: $read;
 	margin-bottom: 5px;
 }
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color: transparent;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: transparent;
+}
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+    background-color: transparent;
+    color: $brand-color
+}
+
+.dropdown-menu>li>a {
+    color: $brand-color
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
