@@ -1,10 +1,10 @@
 ---
 layout: recipe
-title:  "Parmesan Roasted Asparagus"
-date:   2019-01-06
+title:  "Recipe Name"
+date:   YYYY-MM-DD
 author: Lauren Oas
-tags: [pies, fruit ]
-image: assets/ParmRoastedAsparagus.JPG
+tags: [tag1, tag2]
+image: assets/RecipeName.JPG
 ingredients:
 - 7 cups berry blend (frozen or fresh)
 - 3/4 cup granulated sugar
