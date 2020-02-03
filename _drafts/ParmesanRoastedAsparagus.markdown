@@ -5,6 +5,7 @@ date:   YYYY-MM-DD
 author: Lauren Oas
 tags: [tag1, tag2]
 image: assets/RecipeName.JPG
+source: 
 ingredients:
 - 7 cups berry blend (frozen or fresh)
 - 3/4 cup granulated sugar
@@ -16,10 +17,8 @@ ingredients:
 servings: "6-10"
 preptime: "2.5 hours, mostly chilling time"
 cooktime: "55+ minutes"
+read: This is a tasty recipe that I've worked on for quite a while.
 ---
-<b><em>READ THIS FIRST:  </em></b>
-This is a tasty recipe that I've worked on for quite a while.
-
 1. Trim and prepare your chicken breasts, cutting at least 3 slits into each piece.
 2. Add your olive oil, lemon juice, minced garlic, granulated garlic, garlic salt, and pepper to a marinading container (such as a tupperware), whisk all together until thoroughly blended.
 3. Spoon the blended marinade into the slits of the chicken breasts, and submerge into the marinade-be sure that the chicken is covered by more than just olive oil. Let rest in the refrigerater overnight if possible, but at minimum 30 minutes.
