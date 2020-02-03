@@ -3,6 +3,7 @@ layout: recipe
 title:  "Recipe Name"
 date:   YYYY-MM-DD
 author: Lauren Oas
+description: 
 tags: [tag1, tag2]
 image: assets/RecipeName.JPG
 source: 

@@ -3,6 +3,7 @@ layout: recipe
 title:  "Salted Chocolate Frosting"
 date:   2020-02-02
 author: Lauren Oas
+description: Intense chocolatey buttercream frosting that pairs really well with vanilla cake!
 tags: [Vegetarian, Cakes, Gluten-Free, No-Cook]
 image: assets/SaltedChocolateFrosting.jpeg
 ingredients:

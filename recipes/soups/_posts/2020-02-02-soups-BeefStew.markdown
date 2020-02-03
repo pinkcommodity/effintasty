@@ -3,6 +3,7 @@ layout: recipe
 title:  "Beef Stew"
 date:  2020-02-02
 author: Lauren Oas
+description: A classic beef stew just like you remember!
 tags: [Slow-Cooker, One-Pot, Beef]
 image: assets/BeefStew.jpeg
 ingredients:

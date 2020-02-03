@@ -3,6 +3,7 @@ layout: recipe
 title:  "Corn Chowder"
 date:   2020-02-02
 author: Lauren Oas
+description: Tyler's favorite bacon-flavored corn chowder!
 tags: [slow-cooker, gluten-free, potatoes, one-pot, bacon]
 image: assets/CornChowder.jpeg
 source: https://www.mamalovesfood.com/crockpot-corn-chowder/
