@@ -15,9 +15,9 @@ ingredients:
 - 6 tablespoons extra-virgin olive oil
 - 1/2 teaspoon salt
 - 1/4 cup grated Parmesan or Pecorino Romano cheese
-servings: "3-4 servings"
-preptime: "20 minutes"
-cooktime: "20 minutes"
+servings: 3-4 servings
+preptime: 20 minutes
+cooktime: 20 minutes
 read: I am a fan of pesto, but I generally don't order in restaurants because it's just too heavy-the pesto is far too instense for my preference. This is a mild, easy pesto with fresh ingredients that can easily be doubled or tripled to serve a larger crowd or to intensify the pesto-to-pasta ratio. Because I prefer a more mild pesto, I use about 2/3 of a package of spaghetti noodles with this recipe, but the proportions can be modified to suit your preference. I typically add chicken to this dish as it feels more complete to me with some protein.
 ---
 1. Toast pine nuts over medium heat in a small, heavy skillet. Toss often to equally toast. Deposit nuts into separate bowl and set aside.
