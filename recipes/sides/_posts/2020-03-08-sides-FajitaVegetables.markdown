@@ -3,7 +3,7 @@ layout: recipe
 title:  "Fajita Vegetables"
 date:   2020-03-08
 author: Lauren Oas
-description: A delicioius Chipotle copycat that is oh-so-easy!
+description: A delicious Chipotle copycat that is oh-so-easy!
 tags: [Vegetarian, Quick&Easy, Vegan]
 image: assets/FajitaVegetables.jpeg
 source: https://www.culinaryhill.com/chipotle-grilled-peppers-and-onions/#_a5y_p=1479683
