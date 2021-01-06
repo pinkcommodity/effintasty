@@ -17,6 +17,7 @@ ingredients:
 - 2 cups shredded cheddar cheese
 - 1 bunch (about 1 cup chopped) green onions
 - 1 1/4 pounds (about 1 cup crumbled) bacon
+- 2 pounds (about 3 large breasts) chicken breast
 servings: "8 servings"
 preptime: "30 minutes"
 cooktime: "90 minutes"
