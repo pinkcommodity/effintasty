@@ -6,8 +6,8 @@
 </description>
     <link>http://effintasty.com/</link>
     <atom:link href="http://effintasty.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Jan 2021 23:27:41 -0700</pubDate>
-    <lastBuildDate>Wed, 06 Jan 2021 23:27:41 -0700</lastBuildDate>
+    <pubDate>Mon, 11 Jan 2021 15:18:28 -0700</pubDate>
+    <lastBuildDate>Mon, 11 Jan 2021 15:18:28 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -105,11 +105,11 @@
         <link>http://effintasty.com/recipes/sides/2020/03/08/sides-FajitaVegetables.html</link>
         <guid isPermaLink="true">http://effintasty.com/recipes/sides/2020/03/08/sides-FajitaVegetables.html</guid>
         
-        <category>Vegetarian</category>
+        <category>vegetarian</category>
         
-        <category>Quick&amp;Easy</category>
+        <category>quick&amp;easy</category>
         
-        <category>Vegan</category>
+        <category>vegan</category>
         
         
         <category>recipes</category>
@@ -225,11 +225,11 @@
         <link>http://effintasty.com/recipes/desserts/2020/02/12/desserts-MiniApplePies.html</link>
         <guid isPermaLink="true">http://effintasty.com/recipes/desserts/2020/02/12/desserts-MiniApplePies.html</guid>
         
-        <category>Vegetarian</category>
+        <category>vegetarian</category>
         
-        <category>Pies</category>
+        <category>pies</category>
         
-        <category>Fruit</category>
+        <category>fruit</category>
         
         
         <category>desserts</category>
@@ -250,21 +250,21 @@
         <link>http://effintasty.com/recipes/sides/2020/02/09/sides-SpinachRice.html</link>
         <guid isPermaLink="true">http://effintasty.com/recipes/sides/2020/02/09/sides-SpinachRice.html</guid>
         
-        <category>Vegan</category>
+        <category>vegan</category>
         
-        <category>Vegetarian</category>
+        <category>vegetarian</category>
         
-        <category>One-Pot</category>
+        <category>one-pot</category>
         
-        <category>Healthy/Light</category>
+        <category>healthy/light</category>
         
-        <category>Quick&amp;Easy</category>
+        <category>quick&amp;easy</category>
         
-        <category>Veggies</category>
+        <category>veggies</category>
         
-        <category>Rice</category>
+        <category>rice</category>
         
-        <category>Gluten-Free</category>
+        <category>gluten-free</category>
         
         
         <category>recipes</category>
@@ -286,19 +286,19 @@
         <link>http://effintasty.com/recipes/entr%C3%A9es/2020/02/09/maindishes-GreekChicken.html</link>
         <guid isPermaLink="true">http://effintasty.com/recipes/entr%C3%A9es/2020/02/09/maindishes-GreekChicken.html</guid>
         
-        <category>Healthy/Light</category>
+        <category>healthy/light</category>
         
-        <category>Grill</category>
+        <category>grill</category>
         
-        <category>Basics</category>
+        <category>basics</category>
         
-        <category>Quick&amp;Easy</category>
+        <category>quick&amp;easy</category>
         
-        <category>Chicken</category>
+        <category>chicken</category>
         
-        <category>Gluten-Free</category>
+        <category>gluten-free</category>
         
-        <category>Make-Ahead</category>
+        <category>make-ahead</category>
         
         
         <category>entrées</category>
