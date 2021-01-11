@@ -5,17 +5,17 @@ date:   2020-02-12
 author: Lauren Oas
 description: A single-serving apple pie that's as easy as it delicious!
 source: http://www.littlebitfunky.com/2011/10/what-i-made-for-monday.html
-tags: [Vegetarian, Pies, Fruit]
+tags: [vegetarian, pies, fruit]
 image: assets/MiniApplePies.jpeg
 ingredients:
-- 8 cups green apples, (about 6 apples)
-- 3/4 cup flour
-- 1 1/2 cup granulated sugar
+- 8 C green apples, (about 6 apples)
+- 3/4 C flour
+- 1 1/2 C granulated sugar
 - 1 1/2 tbsp cinnamon
 - 1/2 tsp nutmeg
 - spray vegetable oil
 - 3 batches of pie dough, chilled (see my recipe!)
-- 1/2 cup (1 stick) salted butter
+- 1/2 C (1 stick) salted butter
 servings: "24 mini pies"
 preptime: "45 minutes"
 cooktime: "25 minutes"

@@ -10,7 +10,7 @@ source: http://team-t-adventures.blogspot.com/2010/01/easy-crockpot-chicken-stuf
 ingredients:
 - 3 chicken breasts, trimmed
 - 6 oz. chicken dressing (StoveTop)
-- 1 cup sour cream
+- 1 C sour cream
 - 2 cans cream of chicken soup
 servings: "6-10 servings"
 preptime: "10 minutes"

@@ -5,19 +5,19 @@ date:   2020-02-09
 author: Lauren Oas
 description: An easy weeknight Asian stir-fry.
 source: "Quick & Easy Chinese: 70 Everyday Recipes, page 69 'Beef with Brocoli'"
-tags: [One-Pot, Healthy/Light, Quick&Easy, Beef, Gluten-Free]
+tags: [one-pot, healthy/light, quick&easy, beef, gluten-free]
 image: assets/BeefBroccoli.jpeg
 ingredients:
-- 1/4 cup soy sauce
-- 1/2 cup chicken broth
+- 1/4 C soy sauce
+- 1/2 C chicken broth
 - 1 tsp granulated sugar
-- 4 tbls water
+- 4 tbsp water
 - 4 tsp cornstarch
-- 4 tbls canoli oil
-- 2 tbls minced garlic
+- 4 tbsp canoli oil
+- 2 tbsp minced garlic
 - 1/4 tsp ground ginger
-- 1 lb thinly sliced beef
-- 6 cups broccoli florets
+- 1 pound thinly sliced beef
+- 6 C broccoli florets
 servings: 6-8 servings
 preptime: 10 minutes
 cooktime: 40 minutes

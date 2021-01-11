@@ -5,14 +5,14 @@ date:   2020-02-09
 author: Lauren Oas
 description: A delicious, Greek-inspired rice & spinach recipe.
 source: Food blog "LeFork" which appears to be decommissioned.
-tags: [Vegan, Vegetarian, One-Pot, Healthy/Light, Quick&Easy, Veggies, Rice, Gluten-Free]
+tags: [vegan, vegetarian, one-pot, healthy/light, quick&easy, veggies, rice, gluten-free]
 image: assets/SpinachRice.jpeg
 ingredients:
-- 1 tbls olive oil
+- 1 tbsp olive oil
 - 1 medium white onion, diced
-- 4 cups chicken broth
-- 2 cups long grain white rice
-- 5 cups (about 2 bunches) fresh spinach, chopped
+- 4 C chicken broth
+- 2 C long grain white rice
+- 5 C (about 2 bunches) fresh spinach, chopped
 servings: 8-10 servings
 preptime: 10 minutes
 cooktime: 20 minutes

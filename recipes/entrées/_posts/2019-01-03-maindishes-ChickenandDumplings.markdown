@@ -8,12 +8,12 @@ tags: [chicken]
 image: assets/chickenanddumplings.jpg
 source: tastykitchen.com
 ingredients:
-- 2 cups flour, plus extra for dusting
-- 1/2 teaspoon baking powder
-- 1/4 teaspoon salt
-- 1 cup milk
-- 2 quarts (16 cups) chicken broth
-- 3 cups cooked chicken, shredded in large chunks
+- 2 C flour, plus extra for dusting
+- 1/2 tsp baking powder
+- 1/4 tsp salt
+- 1 C milk
+- 2 quarts (16 C) chicken broth
+- 3 C cooked chicken, shredded in large chunks
 servings: "8-10 servings"
 preptime: "25 minutes"
 cooktime: "25 minutes"

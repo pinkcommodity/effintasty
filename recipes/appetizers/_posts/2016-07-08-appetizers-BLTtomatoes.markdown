@@ -13,14 +13,14 @@ ingredients:
 - 3-4 strips of bacon
 - 5-6 large romaine leaves
 - ingredient-heading: "For the Aioli:"
-- 3-4 teaspoons chipotles in adobo (more if you really want a kick)
-- 1 teaspoon soy sauce
-- 3/4 teaspoon granulated sugar
+- 3-4 tsp chipotles in adobo (more if you really want a kick)
+- 1 tsp soy sauce
+- 3/4 tsp granulated sugar
 - 5-6 drops liquid smoke
 - 1 egg yolk, room temperature
-- 1 teaspoon lemon juice (fresh squeezed is preferred)
-- 1/2 teaspoon Dijon mustard
-- 1/2 cup grapeseed oil (or other unflavored oil)
+- 1 tsp lemon juice (fresh squeezed is preferred)
+- 1/2 tsp Dijon mustard
+- 1/2 C grapeseed oil (or other unflavored oil)
 servings: "30 tomatoes"
 preptime: "90 minutes"
 cooktime: "none!"

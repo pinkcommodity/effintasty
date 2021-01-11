@@ -5,16 +5,16 @@ date:   2020-02-09
 author: Lauren Oas
 description: A zesty chicken marinade, perfect for barbecuing!
 source: https://www.allrecipes.com/recipe/54202/greek-style-garlic-chicken-breast/
-tags: [Healthy/Light, Grill, Basics, Quick&Easy, Chicken, Gluten-Free, Make-Ahead]
+tags: [healthy/light, grill, basics, quick&easy, chicken, gluten-free, make-ahead]
 image: assets/GreekChicken.jpeg
 ingredients:
 - 2 chicken breasts
-- 1/4 cup olive oil
-- 2 tbls minced garlic
+- 1/4 C olive oil
+- 2 tbsp minced garlic
 - 1/2 tsp salt
 - 1/2 tsp pepper
 - 1 tsp paprika
-- 1 tbls fresh lemon juice
+- 1 tbsp fresh lemon juice
 servings: 4 servings
 preptime: 10 minutes, plus 30 minutes-24 hours
 cooktime: 25 minutes

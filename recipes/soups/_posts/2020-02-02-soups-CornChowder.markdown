@@ -8,16 +8,16 @@ tags: [slow-cooker, gluten-free, potatoes, one-pot, bacon]
 image: assets/CornChowder.jpeg
 source: https://www.mamalovesfood.com/crockpot-corn-chowder/
 ingredients:
-- 1 lb bacon
+- 1 pound bacon
 - 1.5 pounds russet potatoes (1-2 large potatoes)
-- 4 cups (about 3 cans) corn, drained
-- 1/2 tbls seasoned salt
+- 4 C (about 3 cans) corn, drained
+- 1/2 tbsp seasoned salt
 - 1 medium yellow onion
-- 3 tbls minced garlic
-- 2 cups chicken broth
-- 1 cup heavy whipping cream
+- 3 tbsp minced garlic
+- 2 C chicken broth
+- 1 C heavy whipping cream
 - salt & pepper to taste
-servings: "8-10"
+servings: "8-10 servings"
 preptime: "20 min"
 cooktime: "4 hours 20 minutes"
 read: I halved this recipe from the original I found, it was simply too much and we often ended up throwing a good portion of it away. As I've written, this it easily has about 10 servings, so for me and Tyler that's still a few meals of leftovers.

@@ -8,15 +8,15 @@ author: Lauren Oas
 tags: [easy, vegan, gluten-free, healthy]
 image: assets/falafel.jpeg
 ingredients:
-- 2 cups diced onion
-- 4 tablespoons minced garlic
-- 2 cups cooked chickpeas, drained
-- 1.5 teaspoons salt
-- 2 tablespoons cumin
-- 1 cup fresh parsley leaves
-- 1 cup fresh cilantro leaves
-- 2 teaspoons baking powder
-- 1/2 cup flour
+- 2 C diced onion
+- 4 tbsp minced garlic
+- 2 C cooked chickpeas, drained
+- 1.5 tsp salt
+- 2 tbsp cumin
+- 1 C fresh parsley leaves
+- 1 C fresh cilantro leaves
+- 2 tsp baking powder
+- 1/2 C flour
 - cooking spray
 servings: 48 patties
 preptime: 15 minutes

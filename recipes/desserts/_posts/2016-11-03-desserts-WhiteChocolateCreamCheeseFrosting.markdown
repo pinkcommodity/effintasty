@@ -9,10 +9,10 @@ image: assets/whitechoccreamcheesefrosting.jpeg
 source: http://www.ldsliving.com/-Food-Dish-The-Sweet-Tooth-Fairy-s-B-W-Chocolate-Cupcake-Recipe/s/69294
 ingredients:
 - 8 oz. cream cheese, softened
-- 1/2 cup (1 stick) butter, softened
-- 6 ounces white chocolate, melted
-- 1 teaspoon vanilla extract
-- 3 cups powdered sugar
+- 1/2 C (1 stick) butter, softened
+- 6 oz. white chocolate, melted
+- 1 tsp vanilla extract
+- 3 C powdered sugar
 servings: frosting for 24 cupcakes
 preptime: 15 min
 cooktime: N/A

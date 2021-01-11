@@ -8,15 +8,15 @@ source: https://life-in-the-lofthouse.com/red-velvet-cake-with-cream-cheese-fros
 tags: [vegetarian, cakes]
 image: assets/redvelvetcake.jpeg
 ingredients:
-- 1 1/2 cups granulated sugar
-- 1/2 cup (1 stick) butter
-- 2 tbls canola oil
+- 1 1/2 C granulated sugar
+- 1/2 C (1 stick) butter
+- 2 tbsp canola oil
 - 2 eggs, large
-- 1 cup buttermilk (full fat if you can manage it)
-- 2 cups all-purpose flour
+- 1 C buttermilk (full fat if you can manage it)
+- 2 C all-purpose flour
 - 1 tsp salt
 - 1 tsp baking soda
-- 1 tbls baker's cocoa
+- 1 tbsp baker's cocoa
 - 1 tsp vanilla extract
 - 2 oz. (2 bottles) of red food coloring (use Americolor if you can, see my note)
 servings: 10-12 servings

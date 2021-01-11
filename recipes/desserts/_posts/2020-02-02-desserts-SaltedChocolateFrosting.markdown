@@ -4,15 +4,15 @@ title:  "Salted Chocolate Frosting"
 date:   2020-02-02
 author: Lauren Oas
 description: Intense chocolatey buttercream frosting that pairs really well with vanilla cake!
-tags: [Vegetarian, Cakes, Gluten-Free, No-Cook]
+tags: [vegetarian, cakes, gluten-free, no-cook]
 image: assets/SaltedChocolateFrosting.jpeg
 ingredients:
-- 1 cup (2 sticks) salted butter, softened
-- 3.5 cups confectioner's sugar
-- 1/2 cup baker's cocoa powder
-- 3 tbls heavy whipping cream (milk will work in a pinch)
+- 1 C (2 sticks) salted butter, softened
+- 3.5 C confectioner's sugar
+- 1/2 C baker's cocoa powder
+- 3 tbsp heavy whipping cream (milk will work in a pinch)
 - 2 tsp vanilla extract
-servings: "about 2.5-3 cups frosting"
+servings: "about 2.5-3 C frosting"
 preptime: "15 minutes"
 cooktime: "None!"
 read: This is my absolute favorite-and my most requested-chocolate frosting recipe. This definitely has an intense flavor because of the salted butter, but it is DELICIOUS. Because of it's intensity, I never use this on chocolate cake, something more mild is needed to pair with more chocolate. As written, this recipe produces a stiff frosting for frosting a cake or cupcakes, but would need a bit more sugar if you plan to do an detailed piping work.
