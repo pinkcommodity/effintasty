@@ -9,15 +9,15 @@ image: assets/FamousBerryPie.JPG
 source: Aunt Anne
 ingredients:
 - pie dough x2
-- 7 cups berry blend (frozen or fresh), divided
-- 3/4 cup granulated sugar
-- 1/4 cup cornstarch
-- 1/4 teaspoon ground cinnamon
+- 7 C berry blend (frozen or fresh), divided
+- 3/4 C granulated sugar
+- 1/4 C cornstarch
+- 1/4 tsp ground cinnamon
 - 2 pinches salt
 - 1 tsp lemon zest
-- 2 tbls instant tapioca
+- 2 tbsp instant tapioca
 - 1 egg
-- 1 tablespoon water
+- 1 tbsp water
 servings: "6-10"
 preptime: "2.5 hours, mostly chilling time"
 cooktime: "55+ minutes"

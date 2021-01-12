@@ -8,13 +8,13 @@ tags: [pasta]
 image: assets/Pesto.jpg
 source: Aunt Anne
 ingredients:
-- 12 oz dry spaghetti noodles
-- 1/4 cup pine nuts
+- 12 oz. dry spaghetti noodles
+- 1/4 C pine nuts
 - 3 medium cloves of garlic, unpeeled
-- 2 cups packed fresh basil leaves
-- 6 tablespoons extra-virgin olive oil
-- 1/2 teaspoon salt
-- 1/4 cup grated Parmesan or Pecorino Romano cheese
+- 2 C packed fresh basil leaves
+- 6 tbsp extra-virgin olive oil
+- 1/2 tsp salt
+- 1/4 C grated Parmesan or Pecorino Romano cheese
 servings: 3-4 servings
 preptime: 20 minutes
 cooktime: 20 minutes

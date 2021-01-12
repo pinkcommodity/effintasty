@@ -8,14 +8,14 @@ tags: [one-pot, quick&easy, pasta, beef]
 image: assets/spaghettibolognese.jpeg
 source: Effin Tasty original!
 ingredients:
-- 1 lb ground beef
-- 30 oz (2 cans) tomato sauce
+- 1 pound ground beef
+- 30 oz. (2 cans) tomato sauce
 - 3 cloves minced garlic
-- 1 tbls Italian seasoning
-- 1 tbls garlic salt
-- 1/2 tbls powdered garlic
+- 1 tbsp Italian seasoning
+- 1 tbsp garlic salt
+- 1/2 tbsp powdered garlic
 - 1 tsp cloves
-- OPTIONAL 4 tbls butter
+- OPTIONAL 4 tbsp butter
 servings: "8-10 servings"
 preptime: "5 min"
 cooktime: "30 minutes"

@@ -12,14 +12,14 @@ ingredients:
 - 1 tbsp butter
 - 2 tbsp minced garlic
 - 2 shallots, minced
-- 1 cup vodka
-- 1 cup chicken broth
+- 1 C vodka
+- 1 C chicken broth
 - 1 can (15 oz.) tomato sauce
 - 1 can (15 oz.) diced tomatoes
 - 16 oz. dry penne
-- 1/2 cup heavy cream
+- 1/2 C heavy cream
 - 20 fresh basil leaves
-- 2 lbs chicken breast, trimmed
+- 2 pounds chicken breast, trimmed
 servings: "8-12 servings"
 preptime: "15 minutes"
 cooktime: "35 minutes"

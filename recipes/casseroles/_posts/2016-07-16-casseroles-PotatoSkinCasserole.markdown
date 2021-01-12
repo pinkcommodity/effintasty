@@ -9,14 +9,14 @@ image: assets/LoadedBakedPotato.jpeg
 source: http://cooklisacook.blogspot.ca/2012/03/loaded-potato-buffalo-chicken-casserole.html
 ingredients:
 - 4 pounds (about 5 large) russet potatoes
-- 3/4 cup of olive oil
-- 3/4 cup hot sauce
-- 2 1/2 teaspoons salt
-- 1 1/2 tablespoons ground black pepper
-- 2 tablespoons paprika
-- 2 cups shredded cheddar cheese
-- 1 bunch (about 1 cup chopped) green onions
-- 1 1/4 pounds (about 1 cup crumbled) bacon
+- 3/4 C of olive oil
+- 3/4 C hot sauce
+- 2 1/2 tsp salt
+- 1 1/2 tbsp ground black pepper
+- 2 tbsp paprika
+- 2 C shredded cheddar cheese
+- 1 bunch (about 1 C chopped) green onions
+- 1 1/4 pounds (about 1 C crumbled) bacon
 - 2 pounds (about 3 large breasts) chicken breast
 servings: "8 servings"
 preptime: "30 minutes"

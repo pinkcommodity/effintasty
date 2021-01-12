@@ -8,13 +8,13 @@ tags: [chicken, grill, easy, gluten-free, make-ahead]
 image: assets/lemongarlicchicken.jpeg
 ingredients:
 - 3 large chicken breasts
-- 1/2 cup olive oil
-- 1/4 cup lemon juice
-- 1 tablespoon minced garlic
-- 1/2 tablespoon granulated garlic
-- 1/2 tablespoon garlic salt
-- 1 teaspoons ground black pepper
-servings: "4-6"
+- 1/2 C olive oil
+- 1/4 C lemon juice
+- 1 tbsp minced garlic
+- 1/2 tbsp granulated garlic
+- 1/2 tbsp garlic salt
+- 1 tsp ground black pepper
+servings: "4-6 servings"
 preptime: "10 minutes"
 cooktime: "30 minutes"
 read: This recipe is very garlicked up-we're a garlic household. The fresh garlic keeps the sharpness, the granulated intensifies the garlic flavor, and the salt brings a bit more depth. You can use this on chicken or a white fish (like tilapia), but it works better with chicken. This is a marinade, so the flavor if tested should be VERY strong-if you taste test, you're really just looking for balance, as your chicken will obviously not be as strongly flavored. **This recipe is marked gluten-free, but please be sure to check your ingredients (especially your soy sauce) that they are marked "gluten-free" before you serve to anybody with dietary restrictions.

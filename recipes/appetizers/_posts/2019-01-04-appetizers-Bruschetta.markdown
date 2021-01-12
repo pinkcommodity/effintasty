@@ -10,13 +10,13 @@ source: Mom
 ingredients:
 - 4-6 vine-ripened tomatoes
 - 8-10 leaves fresh basil
-- 1/2 cup shredded parmesan
-- 1/2 teaspoon salt, or to taste
-- 1/2 teaspoon pepper, or to taste
-- 3 tablespoons balsamic vinegar
-- 6 tablespoons minced garlic, *Optional* plus 4 cloves, unpeeled
+- 1/2 C shredded parmesan
+- 1/2 tsp salt, or to taste
+- 1/2 tsp pepper, or to taste
+- 3 tbsp balsamic vinegar
+- 6 tbsp minced garlic, *Optional* plus 4 cloves, unpeeled
 - 1 french baguette
-- 4-6 tablespoons olive oil
+- 4-6 tbsp olive oil
 - OPTIONAL Ricotta cheese
 servings: "24 servings"
 preptime: "20 minutes"

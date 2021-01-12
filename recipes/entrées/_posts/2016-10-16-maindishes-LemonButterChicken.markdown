@@ -8,11 +8,11 @@ tags: [chicken, easy, one-pot]
 image: assets/lemonbutterchicken.jpeg
 ingredients:
 - 4 large chicken breasts (about 3 pounds)
-- 1/2 cup flour
-- 8 tablespoons salted butter (1 stick)
-- 4 tablespoons lemon juice, separated
+- 1/2 C flour
+- 8 tbsp salted butter (1 stick)
+- 4 tbsp lemon juice, separated
 - parmesan cheese to garnish
-servings: 6
+servings: 6 servings
 preptime: 10 minutes
 cooktime: 30 minutes
 read: Be careful when adding your chicken to your pan that the butter doesn't splatter-it burns! I usually serve this with pasta and a starchy vegetable, like brussels sprouts.

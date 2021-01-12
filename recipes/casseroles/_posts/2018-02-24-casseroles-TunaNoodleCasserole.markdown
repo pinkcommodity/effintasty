@@ -12,7 +12,7 @@ ingredients:
 - 2 cans black olives
 - 2 cans tuna
 - 2 cans cream of mushroom soup
-- 1/4-1/2 cup breadcumbs
+- 1/4-1/2 C breadcumbs
 servings: "8 servings"
 preptime: "20 minutes"
 cooktime: "30 minutes"

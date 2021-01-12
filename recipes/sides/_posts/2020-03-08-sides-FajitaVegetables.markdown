@@ -3,14 +3,14 @@ layout: recipe
 title:  "Fajita Vegetables"
 date:   2020-03-08
 author: Lauren Oas
-description: A delicioius Chipotle copycat that is oh-so-easy!
-tags: [Vegetarian, Quick&Easy, Vegan]
+description: A delicious Chipotle copycat that is oh-so-easy!
+tags: [vegetarian, quick&easy, vegan]
 image: assets/FajitaVegetables.jpeg
 source: https://www.culinaryhill.com/chipotle-grilled-peppers-and-onions/#_a5y_p=1479683
 ingredients:
 - 2 green bell peppers
 - 1/2 red onion
-- 1/4 cup water
+- 1/4 C water
 - 1 tsp oregano
 - 1 tsp salt
 servings: "8-12 servings"
