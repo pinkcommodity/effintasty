@@ -1,1 +1,1 @@
-Sitemap: http://effintasty.com/sitemap.xml
+Sitemap: https://effintasty.com/sitemap.xml
