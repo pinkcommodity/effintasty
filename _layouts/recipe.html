@@ -12,9 +12,10 @@ layout: default
  <!--    <p class="post-meta"><time datetime="{{ page.date | date_to_long_string }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p> -->
   </header>
 
+
 	{% if page.image %}
-			<img class="img-rounded img-responsive image" src="{{ site.baseurl }}/{{page.image}}" alt="{{page.title}}">
-		{% endif %}
+    {% cloudinary {{ page.image  | prepend: '/' }} alt="{{ page.title }} image" class="img-rounded img-responsive image"%}
+	{% endif %}
 
 	<div class="prep yellow-banner">
 		<div class="recipe-banner-1"><span class="labeltext">Yields:</span> <br>{{ page.servings }}</div>
