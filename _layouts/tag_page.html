@@ -9,7 +9,7 @@ layout: default
     {% cycle 'add row' : '<div class="row">', '', '', '' %}
 			<div class="col-sm-3"><a class="activeimage" href="{{ post.url }}">
 				{% if post.image %}
-					<img class="img-responsive img-rounded" src="{{ site.baseurl }}/{{post.image}}">
+					{% cloudinary {{ post.image  | prepend: '/' }} alt="{{ page.title }} image" class="img-rounded img-responsive image"%}
 				{% endif %}
 					<h4 class="category-recipe-title">{{ post.title }}</h4></a>
 			</div>
