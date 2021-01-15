@@ -28,6 +28,12 @@ tag_page_layout: tag_page
 tag_page_dir: tag
 tag_permalink_style: pretty
 
+cloudinary:
+  cloud_name: effintasty
+  only_prod: true
+  verbose: true
+  origin_url: https://effintasty.com
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
