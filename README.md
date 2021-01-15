@@ -3,7 +3,7 @@
 ## Deploying to production
 - Make sure git status is clean via `git status`
 - Switch to master branch via: `git checkout master`
-- Deploy via `bundle exec jgd`
+- Deploy via `JEKYLL_ENV=production bundle exec jekyll jgd`
 
 ## Pictures
 Pictures on the site use a 3:2 aspect ratio
