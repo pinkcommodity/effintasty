@@ -1,1 +1,2 @@
 url: "https://effintasty.com" # the base hostname & protocol for your site
+JEKYLL_ENV=production
