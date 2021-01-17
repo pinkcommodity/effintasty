@@ -11,6 +11,7 @@ ingredients:
 - 2 C flour, plus extra for dusting
 - 1/2 tsp baking powder
 - 1/4 tsp salt
+- 2 tbsp butter
 - 1 C milk
 - 2 quarts (16 C) chicken broth
 - 3 C cooked chicken, shredded in large chunks
