@@ -42,7 +42,16 @@ layout: default
     {% endif %}
     <!-- category_links expects an array, so we put our single category into an array -->
     {% assign category_name_array = category_name | split: "|" %}
-    <div class="col-sm-3">{{ category_name_array | category_links }}</div>
+
+    {% assign category_page = category | last | last %}
+    <div class="col-sm-3">
+      {% if category_page.image %}
+        <a class="activeimage" href='categories/{{category_name}}/'>
+          {% cloudinary {{ category_page.image  | prepend: '/' }} alt="{{ category_page.title | capitalize }} image" class="img-responsive img-rounded"%}
+          <h2 class="category-recipe-title">{{category_name  | capitalize}}</h2>
+        </a>
+      {% endif %}
+    </div>
     {% endfor %}
     </div>
 
