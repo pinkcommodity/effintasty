@@ -1,2 +1,8 @@
 url: "https://effintasty.com" # the base hostname & protocol for your site
 environment: production
+
+cloudinary:
+  cloud_name: effintasty
+  only_prod: true
+  verbose: true
+  origin_url: https://effintasty.com
