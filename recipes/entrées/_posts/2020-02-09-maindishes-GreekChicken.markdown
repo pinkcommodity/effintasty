@@ -6,7 +6,7 @@ author: Lauren Oas
 description: A zesty chicken marinade, perfect for barbecuing!
 source: https://www.allrecipes.com/recipe/54202/greek-style-garlic-chicken-breast/
 tags: [healthy/light, grill, basics, quick&easy, chicken, gluten-free, make-ahead]
-image: assets/GreekChicken.jpeg
+image: assets/GreekChicken.jpg
 ingredients:
 - 2 chicken breasts
 - 1/4 C olive oil
