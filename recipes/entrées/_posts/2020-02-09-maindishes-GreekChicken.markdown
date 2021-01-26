@@ -9,7 +9,7 @@ tags: [healthy/light, grill, basics, quick&easy, chicken, gluten-free, make-ahea
 image: assets/GreekChicken.jpg
 ingredients:
 - 2 chicken breasts
-- 1/4 C olive oil
+- 1/4 cup olive oil
 - 2 tbsp minced garlic
 - 1/2 tsp salt
 - 1/2 tsp pepper

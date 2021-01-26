@@ -9,11 +9,11 @@ tags: [vegetarian, basics, no-cook]
 image: assets/creamcheesefrosting.jpeg
 ingredients:
 - 8 oz. cream cheese, room temperature (I would take this out of the fridge at least 3 hours in advance)
-- 1 C butter, room temperature (I would take this out of the fridge at least 3 hours in advance)
+- 1 cup butter, room temperature (I would take this out of the fridge at least 3 hours in advance)
 - 1 tsp vanilla extract
-- 6 C powdered sugar
-- 1/2 C heavy whipping cream
-servings: about 4 C
+- 6 cups powdered sugar
+- 1/2 cup heavy whipping cream
+servings: about 4 cups
 preptime: 15 minutes
 cooktime: None!
 read: This is a basic recipe that will work with any type of cake you need to frost. Add the heavy cream carefully, for your desired consistency-I find that if you skip it entirely the frosting will be too thick for most purposes, but depending on the piping you plan, you may not need all of the heavy whipping cream. As with all white frostings, this dyes very well, but getting a very rich, dark color could require A LOT of dye. 

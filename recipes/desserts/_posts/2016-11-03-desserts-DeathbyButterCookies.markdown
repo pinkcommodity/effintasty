@@ -10,10 +10,10 @@ source: http://www.justapinch.com/recipes/dessert/cookies/gooey-butter-cookies-4
 ingredients:
 - 1 box butter cake mix
 - 1/4 tsp vanilla extract
-- 1/2 C (1 stick) stick butter
+- 1/2 cup (1 stick) stick butter
 - 1 egg
 - 8 oz. cream cheese
-- 1/2 C powdered sugar, more for dusting
+- 1/2 cup powdered sugar, more for dusting
 servings: 24 cookies
 preptime: 2 hours, 15 min
 cooktime: 12 minutes

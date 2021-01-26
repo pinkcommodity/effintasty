@@ -7,10 +7,10 @@ author: Lauren Oas
 tags: [vegan, vegetarian, easy, healthy]
 image: assets/parmesanpumpkinseeds.jpeg
 ingredients:
-- 1 1/2 C pumpkin seeds
+- 1 1/2 cup pumpkin seeds
 - 2 tbsp olive oil
 - 1 tsp salt
-- 1/4 C parmesan cheese
+- 1/4 cup parmesan cheese
 - 1 tsp ground black pepper
 servings: 4-8 servings
 preptime: 5 min

@@ -8,8 +8,8 @@ tags: [one-pot, quick & easy]
 image: assets/DijonPorkLoin.JPG
 ingredients:
 - 1 pork loin (about 4-5 pounds), trimmed
-- 1 C dijon mustard
-- 1 1/2 C Italian-style breadcrumbs
+- 1 cup dijon mustard
+- 1 1/2 cup Italian-style breadcrumbs
 servings: "4-8 servings"
 preptime: "10 minutes"
 cooktime: "1 hour 40 minutes"

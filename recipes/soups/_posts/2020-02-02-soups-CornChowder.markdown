@@ -10,12 +10,12 @@ source: https://www.mamalovesfood.com/crockpot-corn-chowder/
 ingredients:
 - 1 pound bacon
 - 1.5 pounds russet potatoes (1-2 large potatoes)
-- 4 C (about 3 cans) corn, drained
+- 4 cups (about 3 cans) corn, drained
 - 1/2 tbsp seasoned salt
 - 1 medium yellow onion
 - 3 tbsp minced garlic
-- 2 C chicken broth
-- 1 C heavy whipping cream
+- 2 cups chicken broth
+- 1 cup heavy whipping cream
 - salt & pepper to taste
 servings: "8-10 servings"
 preptime: "20 min"

@@ -10,7 +10,7 @@ source: https://www.culinaryhill.com/chipotle-grilled-peppers-and-onions/#_a5y_p
 ingredients:
 - 2 green bell peppers
 - 1/2 red onion
-- 1/4 C water
+- 1/4 cup water
 - 1 tsp oregano
 - 1 tsp salt
 servings: "8-12 servings"

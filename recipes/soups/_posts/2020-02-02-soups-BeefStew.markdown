@@ -9,14 +9,14 @@ image: assets/BeefStew.jpeg
 ingredients:
 - 2 pounds beef stew meat
 - 2 pounds russet potatoes, diced
-- 3 C sliced celery
+- 3 cups sliced celery
 - 4 carrots, peeled & sliced
 - 2 bay leaves
 - 1 tbsp minced garlic
 - 1 tsp Worcestershire sauce
 - 1 medium white onion, diced
-- 1 1/2 C chicken broth (beef is better, but I always have chicken and it works great too!)
-- 1/4 C flour
+- 1 1/2 cup chicken broth (beef is better, but I always have chicken and it works great too!)
+- 1/4 cup flour
 - 1 tsp salt
 servings: "10-12 servings"
 preptime: "30 minutes"

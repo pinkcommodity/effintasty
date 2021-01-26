@@ -8,16 +8,16 @@ tags: [vegetarian, cookies]
 image: assets/KingCookies.JPG
 source: Modified from a few chocolate chip bags.
 ingredients:
-- 3/4 C (1 1/2 sticks) butter, softened
-- 1/2 C granulated sugar
-- 1 C light brown sugar, packed
+- 3/4 cup (1 1/2 sticks) butter, softened
+- 1/2 cup granulated sugar
+- 1 cup light brown sugar, packed
 - 2 large eggs
 - 1 tbsp vanilla extract
 - 1 tsp baking soda
 - 1/2 tsp salt
-- 2 1/2 C all-purpose flour
-- 1 1/2 C chocolate chips
-- OPTIONAL 1 C chopped nuts (I personally do not recommend this)
+- 2 1/2 cups all-purpose flour
+- 1 1/2 cup chocolate chips
+- OPTIONAL 1 cup chopped nuts (I personally do not recommend this)
 servings: "about 45 cookies"
 preptime: "15 minutes"
 cooktime: "13 minutes"

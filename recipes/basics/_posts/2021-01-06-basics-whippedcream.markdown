@@ -10,7 +10,7 @@ source: Aunt Anne
 ingredients:
 - 1 pint heavy whipping cream 
 - 1 tbsp vanilla extract
-- 1/2 C granulated sugar
+- 1/2 cup granulated sugar
 servings: "4 cups"
 preptime: "2 minutes"
 cooktime: "5 minutes"

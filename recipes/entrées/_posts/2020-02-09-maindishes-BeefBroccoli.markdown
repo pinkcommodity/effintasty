@@ -8,8 +8,8 @@ source: "Quick & Easy Chinese: 70 Everyday Recipes, page 69 'Beef with Brocoli'"
 tags: [one-pot, healthy/light, quick&easy, beef, gluten-free]
 image: assets/BeefBroccoli.jpeg
 ingredients:
-- 1/4 C soy sauce
-- 1/2 C chicken broth
+- 1/4 cup soy sauce
+- 1/2 cup chicken broth
 - 1 tsp granulated sugar
 - 4 tbsp water
 - 4 tsp cornstarch
@@ -17,7 +17,7 @@ ingredients:
 - 2 tbsp minced garlic
 - 1/4 tsp ground ginger
 - 1 pound thinly sliced beef
-- 6 C broccoli florets
+- 6 cups broccoli florets
 servings: 6-8 servings
 preptime: 10 minutes
 cooktime: 40 minutes

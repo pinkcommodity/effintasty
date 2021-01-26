@@ -7,7 +7,7 @@ author: Lauren Oas
 tags: [vegan, vegetarian, easy, healthy]
 image: assets/garlicpumpkinseeds.jpeg
 ingredients:
-- 1 1/2 C pumpkin seeds
+- 1 1/2 cup pumpkin seeds
 - 2 tbsp olive oil
 - 1 tsp salt
 - 1/2 tbsp powdered garlic

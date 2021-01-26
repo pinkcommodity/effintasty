@@ -20,7 +20,7 @@ ingredients:
 - 1 egg yolk, room temperature
 - 1 tsp lemon juice (fresh squeezed is preferred)
 - 1/2 tsp Dijon mustard
-- 1/2 C grapeseed oil (or other unflavored oil)
+- 1/2 cup grapeseed oil (or other unflavored oil)
 servings: "30 tomatoes"
 preptime: "90 minutes"
 cooktime: "none!"

@@ -9,9 +9,9 @@ image: assets/whitegravychicken.jpeg
 source: My Aunt Cheri
 ingredients:
 - 3 large (about 2 1/2 pounds) boneless, skinless chicken breasts
-- 16 oz. (2 C) sour cream
+- 16 oz. (2 cups) sour cream
 - 2 10 1/2 oz. cans cream of mushroom soup
-- 1/4 C Italian breadcrumbs (EXCLUDE IF GLUTEN-FREE)
+- 1/4 cup Italian breadcrumbs (EXCLUDE IF GLUTEN-FREE)
 servings: 6 chicken cutlets
 preptime: "15 minutes"
 cooktime: "30 minutes"

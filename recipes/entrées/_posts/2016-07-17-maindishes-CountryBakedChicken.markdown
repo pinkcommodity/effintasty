@@ -9,11 +9,11 @@ image: assets/countrybakedchicken.jpeg
 source: Inspired by http://www.foodnetwork.com/recipes/food-network-kitchens/oven-fried-chicken-recipe.html
 ingredients:
 - 4 large chicken breasts (about 3 pounds)
-- 2 C mayonnaise
+- 2 cups mayonnaise
 - 1 tbsp ground black pepper
 - 1 tbsp granulated garlic
 - 3 tbsp paprika
-- 2 C panko
+- 2 cups panko
 - 1 1/2 tbsp garlic salt
 servings: "about 30 tenders"
 preptime: "20 minutes"

@@ -7,13 +7,13 @@ author: Lauren Oas
 tags: [slow-cooker, one-pot, gluten-free]
 image: assets/beansandhamhocks.jpeg
 ingredients:
-- 3 C dried pinto beans
+- 3 cups dried pinto beans
 - 2 tbsp minced garlic
 - 2 tsp seasoned salt
 - 2 tsp black pepper
 - 1 hamhock
-- 7 C water
-servings: 6-8
+- 7 cups water
+servings: 6-8 servings
 preptime: 10 min
 cooktime: 5 hours
 read: This is a super-hearty weeknight meal that my mom used to make. I usually just let the hamhocks cook into the beans, and take them out whole when the beans are done. I like these best when served with fresh mix-ins such as diced tomatoes, shredded cheddar cheese, diced onions, and fresh cilantro. **This recipe is marked gluten-free, but please be sure to check your ingredients that they are marked "gluten-free" before you serve to anybody with dietary restrictions.

@@ -9,13 +9,13 @@ tags: [vegetarian, pies, fruit]
 image: assets/MiniTarts.jpeg
 ingredients:
 - 2 batches pie dough
-- 1/3 C granulated sugar
+- 1/3 cup granulated sugar
 - 2 tbsp corn starch
 - 4 egg yolks
-- 1 1/3 C whole milk
+- 1 1/3 cup whole milk
 - 1/2 vanilla bean
 - 1/2 tsp vanilla extract
-- 3 C fresh berries
+- 3 cups fresh berries
 servings: "24 mini tarts"
 preptime: "45 minutes, plus overnight chill time"
 cooktime: "20 minutes"

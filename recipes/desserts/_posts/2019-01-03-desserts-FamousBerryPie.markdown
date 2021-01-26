@@ -9,9 +9,9 @@ image: assets/FamousBerryPie.JPG
 source: Aunt Anne
 ingredients:
 - pie dough x2
-- 7 C berry blend (frozen or fresh), divided
-- 3/4 C granulated sugar
-- 1/4 C cornstarch
+- 7 cups berry blend (frozen or fresh), divided
+- 3/4 cup granulated sugar
+- 1/4 cup cornstarch
 - 1/4 tsp ground cinnamon
 - 2 pinches salt
 - 1 tsp lemon zest

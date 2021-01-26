@@ -7,15 +7,15 @@ author: Lauren Oas
 tags: [vegan, vegetarian, cakes, easy]
 image: assets/veganchocolatecupcakes.jpeg
 ingredients:
--  3 C all-purpose flour
--  2 C sugar
--  1/2 C unsweetened cocoa powder (sifted to remove lumps)
+-  3 cups all-purpose flour
+-  2 cups sugar
+-  1/2 cup unsweetened cocoa powder (sifted to remove lumps)
 -  2 tsp baking soda
 -  1/2 tsp salt
--  3/4 C canola/corn/vegetable oil
+-  3/4 cup canola/corn/vegetable oil
 -  2 tsp white vinegar
 -  1 tsp vanilla extract
--  2 C water
+-  2 cups water
 servings: 24 cupcakes
 preptime: 15 min
 cooktime: 20-25 min

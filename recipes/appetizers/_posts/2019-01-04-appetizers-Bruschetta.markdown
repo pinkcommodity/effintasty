@@ -10,7 +10,7 @@ source: Mom
 ingredients:
 - 4-6 vine-ripened tomatoes
 - 8-10 leaves fresh basil
-- 1/2 C shredded parmesan
+- 1/2 cup shredded parmesan
 - 1/2 tsp salt, or to taste
 - 1/2 tsp pepper, or to taste
 - 3 tbsp balsamic vinegar

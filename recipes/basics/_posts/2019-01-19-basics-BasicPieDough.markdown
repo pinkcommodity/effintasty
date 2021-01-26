@@ -7,10 +7,10 @@ description: A simple, versatile pie dough that can be used with sweet or savory
 tags: [vegetarian, pies, no-cook]
 image: assets/PieDough.jpeg
 ingredients:
-- 1 C flour
+- 1 cup flour
 - 1/2 tsp salt
 - 1 tbsp sugar
-- 1 stick (1/2 C) cold butter
+- 1 stick (1/2 cup) cold butter
 - 2-3 tbsp cold water
 servings: 1 pie shell
 preptime: "10 minutes"

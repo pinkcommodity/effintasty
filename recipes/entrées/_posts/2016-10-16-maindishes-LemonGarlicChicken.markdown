@@ -8,8 +8,8 @@ tags: [chicken, grill, easy, gluten-free, make-ahead]
 image: assets/lemongarlicchicken.jpeg
 ingredients:
 - 3 large chicken breasts
-- 1/2 C olive oil
-- 1/4 C lemon juice
+- 1/2 cup olive oil
+- 1/4 cup lemon juice
 - 1 tbsp minced garlic
 - 1/2 tbsp granulated garlic
 - 1/2 tbsp garlic salt
