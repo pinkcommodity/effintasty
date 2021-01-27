@@ -5,7 +5,7 @@ date:   2021-01-26
 author: Lauren Oas
 description: An American classic, as easy as it is delicious!
 tags: [one-pot, beef]
-image: assets/Meatloaf.JPG
+image: assets/Meatloaf.jpg
 source: Dad!
 ingredients:
 - ingredient-heading: "For the Meatloaf:"
