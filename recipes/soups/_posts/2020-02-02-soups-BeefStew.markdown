@@ -18,10 +18,11 @@ ingredients:
 - 1 1/2 cup chicken broth (beef is better, but I always have chicken and it works great too!)
 - 1/4 cup flour
 - 1 tsp salt
+- 1/4 cup soy sauce
 servings: "10-12 servings"
 preptime: "30 minutes"
 cooktime: "6 hours"
 read: This Beef Stew is the exact stew I remember from growing up-hearty, wholesome and delicious. This is super easy, high in protein and really filling, so definitely one of my go-to recipes during a busy week. 
 ---
-1. Put all ingredients  in crockpot and mis together thoroughly. 
+1. Put all ingredients  in crockpot and mix together thoroughly. 
 2. Cook on High for 6 hours.

@@ -13,7 +13,7 @@ ingredients:
 - 1 tsp granulated sugar
 - 4 tbsp water
 - 4 tsp cornstarch
-- 4 tbsp canoli oil
+- 4 tbsp canola oil
 - 2 tbsp minced garlic
 - 1/4 tsp ground ginger
 - 1 pound thinly sliced beef
