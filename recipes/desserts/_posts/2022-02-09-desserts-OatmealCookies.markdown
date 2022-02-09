@@ -5,7 +5,7 @@ date:   2022-02-09
 author: Lauren Oas
 description: The quintessential oatmeal cookie, all comfort and sweetness!
 tags: [cookies, vegetarian]
-image: assets/OatmealCookie.JPG
+image: assets/OatmealCookie.jpg
 source: https://www.cookingclassy.com/oatmeal-cookies/
 ingredients:
 - 1 1/2 cups all-purpose flour
