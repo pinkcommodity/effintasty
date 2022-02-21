@@ -5,7 +5,7 @@ date:   2022-02-17
 author: Lauren Oas
 description: An easy and delicious side for nearly any meal!
 tags: [veggies, vegetarian]
-image: assets/ParmRoastedAsparagus.JPG
+image: assets/parm_roasted_asparagus.jpg
 source:  
 ingredients:
 - 2 lbs fresh asparagus, trimmed
