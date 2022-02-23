@@ -19,6 +19,7 @@ github_username:  pinkcommodity
 
 # Build settings
 markdown: kramdown
+future: false
 
 # Categories plug-in settings
 category_title_prefix: ""
