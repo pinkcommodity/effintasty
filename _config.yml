@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   prepare it. We have recipes and prep techniques, along with delicious pictures.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+url: "https://effintasty.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  pinkcommodity
 
