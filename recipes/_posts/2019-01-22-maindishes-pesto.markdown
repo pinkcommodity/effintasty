@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Pesto"
 date:  2019-01-22
-categories: entrees
+categories: entrées
 description: An easy weeknight pasta that is oh-so-delicious!
 author: Lauren Oas
 tags: [pasta]

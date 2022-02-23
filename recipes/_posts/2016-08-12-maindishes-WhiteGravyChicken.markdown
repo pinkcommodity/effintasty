@@ -2,7 +2,7 @@
 layout: recipe
 title:  "White Gravy Chicken"
 date:   2016-07-17
-categories: entrees
+categories: entrées
 description: A delicious, easy weeknight meal that everyone will enjoy!
 author: Lauren Oas
 tags: [easy, chicken, gluten-free]

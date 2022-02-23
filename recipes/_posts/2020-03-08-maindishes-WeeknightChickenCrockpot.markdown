@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Weeknight Chicken Crockpot"
 date:   2020-03-08
-categories: entrees
+categories: entrées
 author: Lauren Oas
 description: A delicous, easy, set-it-and-forget-it crockpot chicken recipe.
 tags: [chicken, crockpot]

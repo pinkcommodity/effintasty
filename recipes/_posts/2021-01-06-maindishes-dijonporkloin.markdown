@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Dijon Pork Loin"
 date:   2021-01-06
-categories: entrees
+categories: entrées
 author: Lauren Oas
 description: Easy-peasy, delicious and quick! What better pork loin can you ask for?
 tags: [one-pot, quick & easy]

@@ -3,7 +3,7 @@ layout: recipe
 title:  "Lemon Butter Chicken"
 description: An easy, basic chicken for lots of different meals.
 date:   2016-10-16
-categories: entrees
+categories: entrées
 author: Lauren Oas
 tags: [chicken, easy, one-pot]
 image: assets/lemonbutterchicken.jpeg

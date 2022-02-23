@@ -3,7 +3,7 @@ layout: recipe
 title:  "Country Baked Chicken"
 description: Super moist and tasty chicken tenders with a crunchy texture.
 date:   2016-08-12
-categories: entrees
+categories: entrées
 author: Lauren Oas
 tags: [chicken, easy]
 image: assets/countrybakedchicken.jpeg

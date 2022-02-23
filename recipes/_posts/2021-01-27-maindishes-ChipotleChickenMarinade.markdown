@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Chipotle Chicken Marinade"
 date:   2021-01-27
-categories: entrees
+categories: entrées
 author: Lauren Oas
 description: A zesty chicken marinade with a teeny-tiny kick.
 tags: [chicken, grill]

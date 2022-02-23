@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Beef Broccoli"
 date:   2020-02-09
-categories: entrees
+categories: entrées
 author: Lauren Oas
 description: An easy weeknight Asian stir-fry.
 source: "Quick & Easy Chinese: 70 Everyday Recipes, page 69 'Beef with Brocoli'"

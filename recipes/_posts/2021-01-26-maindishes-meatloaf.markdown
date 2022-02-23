@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Meatloaf"
 date:   2021-01-26
-categories: entrees
+categories: entrées
 author: Lauren Oas
 description: An American classic, as easy as it is delicious!
 tags: [one-pot, beef]

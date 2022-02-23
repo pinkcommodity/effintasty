@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Beans and Hamhocks"
 date:   2016-11-03
-categories: entrees
+categories: entrées
 description: Just like mom used to make!
 author: Lauren Oas
 tags: [slow-cooker, one-pot, gluten-free]

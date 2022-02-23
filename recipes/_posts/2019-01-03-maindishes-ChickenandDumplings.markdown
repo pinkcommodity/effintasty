@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Chicken & Dumplings"
 date:   2019-01-03
-categories: entrees
+categories: entrées
 author: Lauren Oas
 description: A delicious scratch-made classic that is easily one of my favorite recipes!
 tags: [chicken]

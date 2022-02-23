@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Chicken Carbonara"
 date:   2022-01-26
-categories: entrees
+categories: entrées
 author: Lauren Oas
 description: An easy and delicious weeknight meal as easy as it is delicious! 
 tags: [bacon, pasta, chicken]

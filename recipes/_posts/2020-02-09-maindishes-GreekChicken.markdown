@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Greek Chicken"
 date:   2020-02-09
-categories: entrees
+categories: entrées
 author: Lauren Oas
 description: A zesty chicken marinade, perfect for barbecuing!
 source: https://www.allrecipes.com/recipe/54202/greek-style-garlic-chicken-breast/

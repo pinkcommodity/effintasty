@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Lemon Garlic Chicken"
 date:   2016-10-16
-categories: entrees
+categories: entrées
 description: An easy, zesty marinade for chicken or fish-great for barbecue!
 author: Lauren Oas
 tags: [chicken, grill, easy, gluten-free, make-ahead]

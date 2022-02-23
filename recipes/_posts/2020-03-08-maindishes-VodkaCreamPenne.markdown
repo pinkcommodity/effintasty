@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Vodka Cream Penne and Chicken"
 date:   2020-03-08
-categories: entrees
+categories: entrées
 author: Lauren Oas
 description: A completely delicious creamy tomato pasta, with a just a dash of vodka!
 tags: [chicken, pasta]

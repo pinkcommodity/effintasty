@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Chicken Enchiladas"
 date:   2022-02-04
-categories: entrees
+categories: entrées
 author: Lauren Oas
 description: A delicious weeknight meal that everyone will love! 
 tags: [Quick&Easy, Chicken]

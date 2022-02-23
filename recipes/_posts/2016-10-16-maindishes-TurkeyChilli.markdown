@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Turkey Chilli"
 date:   2016-10-16
-categories: entrees
+categories: entrées
 description: A tasty, protein-rich lunchtime chilli!
 author: Lauren Oas
 tags: [easy, one-pot, gluten-free, healthy]
