@@ -14,7 +14,7 @@ ingredients:
 - 1/4 tsp salt
 - 2 tbsp butter
 - 1 cup milk
-- 2 quarts (16 cups) chicken broth
+- 2 quarts (8 cups) chicken broth
 - 3 cups cooked chicken, shredded in large chunks
 servings: "8-10 servings"
 preptime: "25 minutes"

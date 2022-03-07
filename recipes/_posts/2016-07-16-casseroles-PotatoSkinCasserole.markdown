@@ -10,6 +10,7 @@ image: assets/LoadedBakedPotato.jpeg
 source: http://cooklisacook.blogspot.ca/2012/03/loaded-potato-buffalo-chicken-casserole.html
 ingredients:
 - 4 pounds (about 5 large) russet potatoes
+- 2 pounds raw chicken breast, trimmed
 - 3/4 cup of olive oil
 - 3/4 cup hot sauce
 - 2 1/2 tsp salt
@@ -32,6 +33,6 @@ read: This recipe is as delicious as it is time-intensive. The prep time can ove
 6. Roast potatoes for 45 minutes, tossing every 15 minutes.
 7. While your potatoes are roasting, fry up your bacon. **A general rule of mine is to add a few extra pieces, just in case you get sniped-by yourself or others tempted by the bacon smell.
 8. Rough-chop your bacon once cooled, and mix in a small bowl with the cheddar cheese and chopped green onions. Set aside.
-9. Dice your chicken into bite-sized pieces, and add to your previously used potato bowl. Add your reserved sauce to the raw chicken and toss to coat.
+9. Dice your chicken into bite-sized pieces (about 1-inch cubes), and add to your previously used potato bowl. Add your reserved sauce to the raw chicken and toss to coat.
 10. Once you've finished your 45 minute potato roast, toss the potatoes one last time. Add the chicken evenly to the top of the potatoes, and then coat with your cheese and bacon mixture. Reduce oven temperature to 400 degrees F.
 11. Cook for about 20 minutes, until the cheese bubbles. Allow to cool before serving.
