@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Use Github Action Bot
-    run: |
-      git config --local user.name 'github-actions[bot]'
-      git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+      run: |
+        git config --local user.name 'github-actions[bot]'
+        git config --local user.email 'github-actions[bot]@users.noreply.github.com'
     - uses: actions/checkout@v2
     # Use GitHub Actions' cache to shorten build times and decrease load on servers
     - uses: actions/cache@v2
