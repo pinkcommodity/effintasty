@@ -23,6 +23,7 @@ jobs:
         git config --local user.name 'github-actions[bot]'
         git config --local user.email 'github-actions[bot]@users.noreply.github.com'
     # Standard usage
-    - uses:  helaili/jekyll-action@v2
+    - uses:  tielur/jekyll-action@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        use_github_bot_for_commits: true
