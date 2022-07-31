@@ -6,6 +6,9 @@ on:
   schedule:
   - cron: "0 8 * * *"
 
+env:
+  GITHUB_ACTOR: github-actions[bot]
+
 jobs:
   jekyll:
     runs-on: ubuntu-latest
@@ -18,10 +21,6 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-    - name: Use Github Action Bot
-      run: |
-        git config --local user.name 'github-actions[bot]'
-        git config --local user.email 'github-actions[bot]@users.noreply.github.com'
     # Standard usage
     - uses:  helaili/jekyll-action@v2
       with:
