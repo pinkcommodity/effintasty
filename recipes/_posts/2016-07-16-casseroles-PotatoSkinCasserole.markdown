@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Potato Skin Casserole"
-date:  2016-08-13
+date:  2024-08-23
 categories: casseroles
 description: All the best parts of potato skins, plus chicken and some serious heat.
 author: Lauren Oas
@@ -11,13 +11,14 @@ source: http://cooklisacook.blogspot.ca/2012/03/loaded-potato-buffalo-chicken-ca
 ingredients:
 - 4 pounds (about 5 large) russet potatoes
 - 2 pounds raw chicken breast, trimmed
-- 3/4 cup of olive oil
-- 3/4 cup hot sauce
-- 2 1/2 tsp salt
+- 1 cup of olive oil
+- 1/2 cup white vinegar
+- 1 tbsp granulated garlic
+- 1 tbsp salt
 - 1 1/2 tbsp ground black pepper
 - 2 tbsp paprika
 - 2 cups shredded cheddar cheese
-- 1 bunch (about 1 cup chopped) green onions
+- 1 bunch (about 1/2 cup chopped) green onions
 - 1 1/4 pounds (about 1 cup crumbled) bacon
 - 2 pounds (about 3 large breasts) chicken breast
 servings: "8 servings"
@@ -27,7 +28,7 @@ read: This recipe is as delicious as it is time-intensive. The prep time can ove
 ---
 1. Preheat oven to 500 degrees F.
 2. Dice potatoes into 1/2-inch cubes, leaving the skin on.
-3. In a large bowl, whisk together olive oil, hot sauce, salt, pepper and paprika.
+3. In a large bowl, whisk together olive oil, vinegar, garlic, salt, pepper and paprika.
 4. Reserve 1/2-3/4 cup of sauce, to coat chicken. (You can always some back to your potatoes if necessary).
 5. Add potatoes to sauce, tossing to coat thoroughly. Pour potatoes into a deep casserole dish. **A deep dish makes it MUCH easier to toss your potatoes when you roast them.
 6. Roast potatoes for 45 minutes, tossing every 15 minutes.
